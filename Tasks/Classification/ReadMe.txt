@@ -1,0 +1,1 @@
+﻿All the classifier has been applied using scikit-learn

@@ -1,0 +1,9 @@
+﻿transformers==4.36.2
+gradio
+accelerate
+sentencepiece
+bitsandbytes
+protobuf
+pandas>=1.2.0
+torch
+requests
