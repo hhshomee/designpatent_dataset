@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0927435-20210810.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210721" date-publ="20210810">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0927435</doc-number>
+<kind>S1</kind>
+<date>20210810</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>35509020</doc-number>
+<date>20191010</date>
+</document-id>
+</application-reference>
+<us-application-series-code>35</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2019-008057</doc-number>
+<date>20190412</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1303</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D13179</main-classification>
+</classification-national>
+<invention-title id="d2e71">Heat dissipating device for batteries or electric devices</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2344280</doc-number>
+<kind>A</kind>
+<name>Beggs</name>
+<date>19440300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01J 5/40</classification-cpc-text>
+<classification-national><country>US</country><main-classification>439736</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3163207</doc-number>
+<kind>A</kind>
+<name>Schultz</name>
+<date>19641200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01L 23/4006</classification-cpc-text>
+<classification-national><country>US</country><main-classification>165 68</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3212569</doc-number>
+<kind>A</kind>
+<name>McAdam</name>
+<date>19651000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01L 23/4006</classification-cpc-text>
+<classification-national><country>US</country><main-classification>165 803</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3213324</doc-number>
+<kind>A</kind>
+<name>McAdam</name>
+<date>19651000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F28F 1/26</classification-cpc-text>
+<classification-national><country>US</country><main-classification>361709</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3394387</doc-number>
+<kind>A</kind>
+<name>Williams</name>
+<date>19680700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F02F 1/242</classification-cpc-text>
+<classification-national><country>US</country><main-classification>165 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4246494</doc-number>
+<kind>A</kind>
+<name>Foreman</name>
+<date>19810100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H03K 17/725</classification-cpc-text>
+<classification-national><country>US</country><main-classification>307116</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D260636</doc-number>
+<kind>S</kind>
+<name>Duden</name>
+<date>19810900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13126</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4389469</doc-number>
+<kind>A</kind>
+<name>Nicholls</name>
+<date>19830600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H02J 7/0042</classification-cpc-text>
+<classification-national><country>US</country><main-classification>429 98</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5057648</doc-number>
+<kind>A</kind>
+<name>Blough</name>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01L 25/165</classification-cpc-text>
+<classification-national><country>US</country><main-classification>174561</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5185691</doc-number>
+<kind>A</kind>
+<name>Korinsky</name>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H05K 7/20509</classification-cpc-text>
+<classification-national><country>US</country><main-classification>361720</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D336748</doc-number>
+<kind>S</kind>
+<name>Luhrs</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13160</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D341820</doc-number>
+<kind>S</kind>
+<name>Itoh</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5258888</doc-number>
+<kind>A</kind>
+<name>Korinsky</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H05K 7/209</classification-cpc-text>
+<classification-national><country>US</country><main-classification>361690</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5347160</doc-number>
+<kind>A</kind>
+<name>Sutrina</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01L 24/72</classification-cpc-text>
+<classification-national><country>US</country><main-classification>257678</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5352958</doc-number>
+<kind>A</kind>
+<name>Cunningham</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H05B 39/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>315195</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5492779</doc-number>
+<kind>A</kind>
+<name>Ronning</name>
+<date>19960200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01M 10/613</classification-cpc-text>
+<classification-national><country>US</country><main-classification>429120</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D398295</doc-number>
+<kind>S</kind>
+<name>Chang</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D465462</doc-number>
+<kind>S</kind>
+<name>Hsieh</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D471168</doc-number>
+<kind>S</kind>
+<name>Ge</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13184</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D478055</doc-number>
+<kind>S</kind>
+<name>Jing</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6870735</doc-number>
+<kind>B2</kind>
+<name>Genova</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01L 23/367</classification-cpc-text>
+<classification-national><country>US</country><main-classification>165185</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D515043</doc-number>
+<kind>S</kind>
+<name>Ishizaka</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13180</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D597497</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20090800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7615799</doc-number>
+<kind>B2</kind>
+<name>Su</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01L 33/642</classification-cpc-text>
+<classification-national><country>US</country><main-classification>257100</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D626520</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20101100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D626521</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20101100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D632266</doc-number>
+<kind>S</kind>
+<name>Huang</name>
+<date>20110200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D638376</doc-number>
+<kind>S</kind>
+<name>Herrmann</name>
+<date>20110500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>8020608</doc-number>
+<kind>B2</kind>
+<name>Delano</name>
+<date>20110900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F04D 29/541</classification-cpc-text>
+<classification-national><country>US</country><main-classification>165 803</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D677636</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20130300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>8410362</doc-number>
+<kind>B1</kind>
+<name>Lin</name>
+<date>20130400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H02G 3/14</classification-cpc-text>
+<classification-national><country>US</country><main-classification>174 66</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D689829</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20130900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>D694199</doc-number>
+<kind>S</kind>
+<name>Lin</name>
+<date>20131100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D819578</doc-number>
+<kind>S</kind>
+<name>Su</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13179</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>2015/0104686</doc-number>
+<kind>A1</kind>
+<name>Brommer</name>
+<date>20150400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01M 10/647</classification-cpc-text>
+<classification-national><country>US</country><main-classification>429 99</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>2019/0190094</doc-number>
+<kind>A1</kind>
+<name>Shimizu</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01M 10/6555</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>2020/0259223</doc-number>
+<kind>A1</kind>
+<name>Shimizu</name>
+<date>20200800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01M 10/6551</classification-cpc-text>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D13179</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13110</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13180</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13184</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13160</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13126</main-classification>
+</classification-national>
+<classification-cpc-text>H01M 10/647</classification-cpc-text>
+<classification-cpc-text>H01M 10/6555</classification-cpc-text>
+<classification-cpc-text>H01M 10/6551</classification-cpc-text>
+<classification-cpc-text>H01M 10/613</classification-cpc-text>
+<classification-cpc-text>F02F 1/242</classification-cpc-text>
+<classification-cpc-text>H05B 39/00</classification-cpc-text>
+<classification-cpc-text>H01L 24/72</classification-cpc-text>
+<classification-cpc-text>H01L 33/642</classification-cpc-text>
+<classification-cpc-text>H01L 23/367</classification-cpc-text>
+<classification-cpc-text>H01L 25/165</classification-cpc-text>
+<classification-cpc-text>H01L 23/4006</classification-cpc-text>
+<classification-cpc-text>H02J 7/0042</classification-cpc-text>
+<classification-cpc-text>H03K 17/725</classification-cpc-text>
+<classification-cpc-text>H01J 5/40</classification-cpc-text>
+<classification-cpc-text>H02G 3/14</classification-cpc-text>
+<classification-cpc-text>F04D 29/541</classification-cpc-text>
+<classification-cpc-text>H05K 7/209</classification-cpc-text>
+<classification-cpc-text>H05K 7/20509</classification-cpc-text>
+<classification-cpc-text>F28F 1/26</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SHIN-ETSU POLYMER CO., LTD.</orgname>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="002" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Daimler AG</orgname>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+<residence>
+<country>DE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Kuwabara</last-name>
+<first-name>Tomohiko</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Shimizu</last-name>
+<first-name>Takao</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Christ</last-name>
+<first-name>Markus</first-name>
+<address>
+<city>Kirchheim unter Teck</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="004" designation="us-only">
+<addressbook>
+<last-name>Andersson</last-name>
+<first-name>Nils</first-name>
+<address>
+<city>Kirchheim unter Teck</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="005" designation="us-only">
+<addressbook>
+<last-name>Brommer</last-name>
+<first-name>Christian</first-name>
+<address>
+<city>Kirchheim unter Teck</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="006" designation="us-only">
+<addressbook>
+<last-name>Schnuepke</last-name>
+<first-name>Hubert</first-name>
+<address>
+<city>Kirchheim unter Teck</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="007" designation="us-only">
+<addressbook>
+<last-name>Fuchslocher</last-name>
+<first-name>Marc</first-name>
+<address>
+<city>Kirchheim unter Teck</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Hauptman Ham, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SHIN-ETSU POLYMER CO., LTD.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>DAIMLER AG</orgname>
+<role>03</role>
+<address>
+<city>Stuttgart</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Shields</last-name>
+<first-name>Rhea</first-name>
+<department>2915</department>
+</primary-examiner>
+</examiners>
+<hague-agreement-data>
+<international-filing-date><date>20191010</date></international-filing-date>
+<international-registration-publication-date><date>20200410</date></international-registration-publication-date>
+<international-registration-number>DM/205825</international-registration-number>
+<international-registration-date><date>20191010</date></international-registration-date>
+</hague-agreement-data>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="95.59mm" wi="139.70mm" file="USD0927435-20210810-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="27.43mm" wi="207.26mm" file="USD0927435-20210810-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="27.43mm" wi="207.26mm" file="USD0927435-20210810-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="26.84mm" wi="154.43mm" file="USD0927435-20210810-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="26.84mm" wi="154.43mm" file="USD0927435-20210810-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="127.17mm" wi="207.60mm" file="USD0927435-20210810-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="123.95mm" wi="207.09mm" file="USD0927435-20210810-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="114.30mm" wi="191.35mm" file="USD0927435-20210810-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="131.15mm" wi="184.07mm" file="USD0927435-20210810-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="102.19mm" wi="151.72mm" file="USD0927435-20210810-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">1. Heat dissipating device for batteries or electric devices</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">1.1 </figref>: Front</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">1.2 </figref>: Back</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">1.3 </figref>: Left</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">1.4 </figref>: Right</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">1.5 </figref>: Top</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">1.6 </figref>: Bottom</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">1.7 </figref>: Perspective</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">1.8 </figref>is an enlarged partial perspective view; and</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">1.9 </figref>is a perspective view, shown in an environment.</p>
+<p id="p-0011" num="0011">Fig. <figref idref="DRAWINGS">1.8 </figref>is a partially enlarged view taken along the A-A&#x2032; line shown in the fig <figref idref="DRAWINGS">1.7</figref>; fig. <figref idref="DRAWINGS">1.9 </figref>is a reference view showing the state of use in which the article according to the present design is used by being sandwiched between a plurality of battery cells and a case.</p>
+<p id="p-0012" num="0012">In the reproductions, the broken lines are for the purpose of illustrating environment only and form no part of the claimed design. </p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a heat dissipating device for batteries or electric devices, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

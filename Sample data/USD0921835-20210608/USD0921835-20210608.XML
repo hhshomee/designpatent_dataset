@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0921835-20210608.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210524" date-publ="20210608">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0921835</doc-number>
+<kind>S1</kind>
+<date>20210608</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29732454</doc-number>
+<date>20200424</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>2301</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D23209</main-classification>
+</classification-national>
+<invention-title id="d2e53">Pre-filter for water treatment system</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4560477</doc-number>
+<kind>A</kind>
+<name>Moldow</name>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B01D 29/21</classification-cpc-text>
+<classification-national><country>US</country><main-classification>210457</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D421649</doc-number>
+<kind>S</kind>
+<name>Cappuyns</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23365</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D470216</doc-number>
+<kind>S</kind>
+<name>Gustafson</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D481101</doc-number>
+<kind>S</kind>
+<name>Boehrs</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D497972</doc-number>
+<kind>S</kind>
+<name>Reynolds</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D571433</doc-number>
+<kind>S</kind>
+<name>Koteskey</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D609775</doc-number>
+<kind>S</kind>
+<name>Zukor</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D724179</doc-number>
+<kind>S</kind>
+<name>Keenan</name>
+<date>20150300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D746969</doc-number>
+<kind>S</kind>
+<name>Leatzow</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23365</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D759195</doc-number>
+<kind>S</kind>
+<name>Tanida</name>
+<date>20160600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D770592</doc-number>
+<kind>S</kind>
+<name>Schwartz</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D772379</doc-number>
+<kind>S</kind>
+<name>Tadlock</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23209</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00013">
+<othercit>Culligan Water Filter, Sep. 20, 2004, Amazon.com, Apr. 20, 2021. URL: https://www.amazon.com/Culligan-R50-BBSA-Sediment-Replacement-Cartridge/dp/B000BQWYDO (Year: 2004).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00014">
+<othercit>Whirlpool WHA2FF5 Water Filter, Oct. 14, 2015, Amazon.com, Apr. 20, 2021 https://www.amazon.com/dp/B016NGTCTY (Year: 2015).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D23209</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23235</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23341</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23358</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23363-365</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D15  5</main-classification>
+</classification-national>
+<classification-cpc-text>B01D 46/0002</classification-cpc-text>
+<classification-cpc-text>B01D 46/10</classification-cpc-text>
+<classification-cpc-text>F02M 35/04</classification-cpc-text>
+<classification-cpc-text>F02M 35/10</classification-cpc-text>
+<classification-cpc-text>F02M 35/024</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Access Business Group International LLC</orgname>
+<address>
+<city>Ada</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Miles</last-name>
+<first-name>Michael E.</first-name>
+<address>
+<city>Grand Rapids</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Lautzenheiser</last-name>
+<first-name>Terry L.</first-name>
+<address>
+<city>Nunica</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Schlenk</last-name>
+<first-name>Daniel L.</first-name>
+<address>
+<city>Grand Rapids</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Warner Norcross + Judd LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Access Business Group International LLC</orgname>
+<role>02</role>
+<address>
+<city>Ada</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Reickel</last-name>
+<first-name>Jack</first-name>
+<department>2925</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wilson</last-name>
+<first-name>Keith J</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="240.79mm" wi="210.82mm" file="USD0921835-20210608-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="232.16mm" wi="133.35mm" file="USD0921835-20210608-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="242.82mm" wi="124.29mm" file="USD0921835-20210608-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="242.74mm" wi="127.85mm" file="USD0921835-20210608-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="242.82mm" wi="138.51mm" file="USD0921835-20210608-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="242.82mm" wi="134.37mm" file="USD0921835-20210608-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="235.88mm" wi="125.31mm" file="USD0921835-20210608-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="218.95mm" wi="124.63mm" file="USD0921835-20210608-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a top, front perspective view of the pre-filter for water treatment system;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a rear view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a right side view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a left side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a top view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a bottom view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. 8</figref> is a bottom, rear perspective view thereof.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a pre-filter for water treatment system, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

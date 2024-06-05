@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0919623-20210518.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210503" date-publ="20210518">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0919623</doc-number>
+<kind>S1</kind>
+<date>20210518</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29719395</doc-number>
+<date>20200103</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1402</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D14391</main-classification>
+</classification-national>
+<invention-title id="d2e53">Keyboard including a control bar</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D8647</doc-number>
+<kind>S</kind>
+<name>Cunningham et al.</name>
+<date>18750900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D11106</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D226040</doc-number>
+<kind>S</kind>
+<name>Beeri, Jr.</name>
+<date>19730100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D19 88</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D248934</doc-number>
+<kind>S</kind>
+<name>Campbell</name>
+<date>19780800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D11121</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D266040</doc-number>
+<kind>S</kind>
+<name>Cope</name>
+<date>19820900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D275755</doc-number>
+<kind>S</kind>
+<name>Cottrill</name>
+<date>19841000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14457</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D353585</doc-number>
+<kind>S</kind>
+<name>Lucente</name>
+<date>19941200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14397</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D365334</doc-number>
+<kind>S</kind>
+<name>Peart</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14422</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D386754</doc-number>
+<kind>S</kind>
+<name>Gifford</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14396</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D410951</doc-number>
+<kind>S</kind>
+<name>Schwarzwaelder</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D19135</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D414479</doc-number>
+<kind>S</kind>
+<name>Oberhofer</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14396</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D421976</doc-number>
+<kind>S</kind>
+<name>Jobs</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14398</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D422972</doc-number>
+<kind>S</kind>
+<name>King</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D442637</doc-number>
+<kind>S</kind>
+<name>Dorrell</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D454566</doc-number>
+<kind>S</kind>
+<name>Andre</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14396</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D482036</doc-number>
+<kind>S</kind>
+<name>Goto</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D482362</doc-number>
+<kind>S</kind>
+<name>Goto</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D488814</doc-number>
+<kind>S</kind>
+<name>Kang</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14385</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D517069</doc-number>
+<kind>S</kind>
+<name>Chou</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D521513</doc-number>
+<kind>S</kind>
+<name>Neal</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D598451</doc-number>
+<kind>S</kind>
+<name>Andre</name>
+<date>20090800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D604299</doc-number>
+<kind>S</kind>
+<name>Acevedo</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D611542</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D626109</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20101000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7815381</doc-number>
+<kind>B2</kind>
+<name>Monney et al.</name>
+<date>20101000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>8138436</doc-number>
+<kind>B2</kind>
+<name>Grant et al.</name>
+<date>20120300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D684576</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14392</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D719573</doc-number>
+<kind>S</kind>
+<name>Schake</name>
+<date>20141200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14392</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D720751</doc-number>
+<kind>S</kind>
+<name>He</name>
+<date>20150100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D721051</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20150100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>9235271</doc-number>
+<kind>B2</kind>
+<name>Berg</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>D752592</doc-number>
+<kind>S</kind>
+<name>Ozolins</name>
+<date>20160300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14434</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D757022</doc-number>
+<kind>S</kind>
+<name>Dirksen</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14398</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>9529393</doc-number>
+<kind>B2</kind>
+<name>Asbjornsen et al.</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D780757</doc-number>
+<kind>S</kind>
+<name>Crisp</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>D793477</doc-number>
+<kind>S</kind>
+<name>Morel</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>D812055</doc-number>
+<kind>S</kind>
+<name>Crisp</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>D820260</doc-number>
+<kind>S</kind>
+<name>Ang</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14391</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>D820261</doc-number>
+<kind>S</kind>
+<name>Brummer</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14392</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>2007/0291443</doc-number>
+<kind>A1</kind>
+<name>Cheng</name>
+<date>20071200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>2010/0033914</doc-number>
+<kind>A1</kind>
+<name>Liang</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>2013/0148282</doc-number>
+<kind>A1</kind>
+<name>Chen</name>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>2017/0117107</doc-number>
+<kind>A1</kind>
+<name>Chen et al.</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>CN</country>
+<doc-number>205375388</doc-number>
+<date>20160700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>CN</country>
+<doc-number>304375233</doc-number>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00045">
+<document-id>
+<country>CN</country>
+<doc-number>304431941</doc-number>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00046">
+<document-id>
+<country>CN</country>
+<doc-number>305135921</doc-number>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00047">
+<document-id>
+<country>CN</country>
+<doc-number>305291383</doc-number>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00048">
+<document-id>
+<country>CN</country>
+<doc-number>305419650</doc-number>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00049">
+<othercit>Mechanical Gaming Keyboard MGK L80, Azio, aphnetworks.com, published by Aaron Lai on Aug. 19, 2016 &#xa9; 2005 APH Networks Inc., online, site visited Jan. 13, 2020. Available at URL: https://aphnetworks.com/reviews/azio-mgk-180-rgb (Year: 2016).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00050">
+<othercit>Mechanical Keyboard MGK-ARMATO-01, Azio, amazon.com, published by Azio on Dec. 30, 2016 &#xa9; 1996-2020, Amazon.com, Inc, online, site visited Jan. 13, 2020. Available at URL: https://www.amazon.com/Azio-MGK-ARMATO-01-Mechanical-Keyboard-Backlight/dp/B01MZ2KKT4 (Year: 2016).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00051">
+<othercit>RollerMouse, Contour Design Inc., youtube.com, published by Contour Design on Feb. 3, 2012 &#xa9; not listed, online, site visited Oct. 7, 2020. Available at URL: https://www.youtube.com/watch?v=516Z0e4fQ4U (Year: 2012).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00052">
+<othercit>2017 Guide: the Best Mechanical Keyboards, http://www.computershopper.com/feature/2017-guide-the-best-mechanical-keyboards.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00053">
+<othercit>Lee, X., Keyboards with vol. Wheel, Oct. 8, 2016, http://xahlee.info/kbd/keyboard_volume_wheel.html.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00054">
+<othercit>Omen Sequencer Keyboard, HP, tomsguide.com, posted by Marshall Honorof on Jan. 18, 2019 Future US, Inc. online, retrieved Sep. 13, 2019. Available at URL: https://www.tomsguide.com.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D142034</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D142036</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14247</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14345-346</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14315-327</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14391-399</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14434</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14455-457</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14477</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14507</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14509</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D18  1-  2</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D18  41-  46</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D18  7</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D18 11</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235145 A</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>235145 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>341 22- 23</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>345104</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>345156</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>345168-169</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>345173</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36167908</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36167909</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36167911</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36167926</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>36167927</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11132</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21324</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21409</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21512</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21515</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24186</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2481761</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2482981</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>24834601</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6705</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 67054</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 67057</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D19 88- 89</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7697-698</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>B41J 5/00</classification-cpc-text>
+<classification-cpc-text>B41J 5/10</classification-cpc-text>
+<classification-cpc-text>B41J 5/12</classification-cpc-text>
+<classification-cpc-text>F16M 11/10</classification-cpc-text>
+<classification-cpc-text>G06F 3/0219</classification-cpc-text>
+<classification-cpc-text>G06F 3/02</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>29632070</doc-number>
+<date>20180104</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>D884698</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29719395</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Hewlett-Packard Development Company, L.P.</orgname>
+<address>
+<city>Spring</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Bhat</last-name>
+<first-name>Siddhartha</first-name>
+<address>
+<city>Palo Alto</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Wong</last-name>
+<first-name>Glenn A.</first-name>
+<address>
+<city>Palo Alto</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Skinner</last-name>
+<first-name>David N.</first-name>
+<address>
+<city>Palo Alto</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="004" designation="us-only">
+<addressbook>
+<last-name>Zarnowitz</last-name>
+<first-name>Arthur Harvey</first-name>
+<address>
+<city>Palo Alto</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Dryja</last-name>
+<first-name>Michael A.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hewlett-Packard Development Company, L.P.</orgname>
+<role>02</role>
+<address>
+<city>Spring</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cash</last-name>
+<first-name>Marissa J</first-name>
+<department>2916</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Swangin</last-name>
+<first-name>Altaira J</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="91.61mm" wi="158.75mm" file="USD0919623-20210518-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="218.36mm" wi="132.08mm" orientation="landscape" file="USD0919623-20210518-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="211.92mm" wi="86.02mm" orientation="landscape" file="USD0919623-20210518-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="77.30mm" wi="86.70mm" orientation="landscape" file="USD0919623-20210518-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="211.75mm" wi="91.95mm" orientation="landscape" file="USD0919623-20210518-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="211.75mm" wi="89.66mm" orientation="landscape" file="USD0919623-20210518-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front, bottom, right-side perspective view of a keyboard including a control bar.</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a bottom plan view of the keyboard shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a top plan view of the keyboard shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a left-side elevational view of the keyboard shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a right-side elevational view of the keyboard shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a front elevational view of the keyboard shown in <figref idref="DRAWINGS">FIG. 1</figref>; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a rear elevational view of the keyboard shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0008" num="0008">The broken lines immediately adjacent the shaded area represent the bounds of the claimed design while all other broken lines are directed to environment and are for illustrative purposes only; the broken lines form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a keyboard including a control bar, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

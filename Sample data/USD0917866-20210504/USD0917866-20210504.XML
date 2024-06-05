@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0917866-20210504.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210420" date-publ="20210504">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0917866</doc-number>
+<kind>S1</kind>
+<date>20210504</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29736329</doc-number>
+<date>20200529</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>0204</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 2973</main-classification>
+</classification-national>
+<invention-title id="d2e53">Shoe</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D290541</doc-number>
+<kind>S</kind>
+<name>O'Rourke</name>
+<date>19870600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D302070</doc-number>
+<kind>S</kind>
+<name>Kilgore et al.</name>
+<date>19890700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D311268</doc-number>
+<kind>S</kind>
+<name>Hatfield</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D325665</doc-number>
+<kind>S</kind>
+<name>Kittle et al.</name>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D331142</doc-number>
+<kind>S</kind>
+<name>Smith, III</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D333033</doc-number>
+<kind>S</kind>
+<name>Bailey</name>
+<date>19930200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D334651</doc-number>
+<kind>S</kind>
+<name>Smith</name>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D377560</doc-number>
+<kind>S</kind>
+<name>Worthington</name>
+<date>19970100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D378473</doc-number>
+<kind>S</kind>
+<name>Feller</name>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2970</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D385411</doc-number>
+<kind>S</kind>
+<name>Cooper</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2972</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D391058</doc-number>
+<kind>S</kind>
+<name>Cooper</name>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D391062</doc-number>
+<kind>S</kind>
+<name>Hatfield</name>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2972</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D393354</doc-number>
+<kind>S</kind>
+<name>Doxey</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2972</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D404555</doc-number>
+<kind>S</kind>
+<name>Gray</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D408980</doc-number>
+<kind>S</kind>
+<name>Doxey</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D447859</doc-number>
+<kind>S</kind>
+<name>Matis et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D510474</doc-number>
+<kind>S</kind>
+<name>Henderson</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D511883</doc-number>
+<kind>S</kind>
+<name>Matis</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D517302</doc-number>
+<kind>S</kind>
+<name>Ardissono</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D519725</doc-number>
+<kind>S</kind>
+<name>Heller</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D544688</doc-number>
+<kind>S</kind>
+<name>Fullum</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D546043</doc-number>
+<kind>S</kind>
+<name>Belley et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D553342</doc-number>
+<kind>S</kind>
+<name>Fullum</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D561446</doc-number>
+<kind>S</kind>
+<name>Belley et al.</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D573781</doc-number>
+<kind>S</kind>
+<name>Mayden</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D574594</doc-number>
+<kind>S</kind>
+<name>St-Louis et al.</name>
+<date>20080800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D593294</doc-number>
+<kind>S</kind>
+<name>St-Louis et al.</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D593302</doc-number>
+<kind>S</kind>
+<name>St-Louis et al.</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D593305</doc-number>
+<kind>S</kind>
+<name>St-Louis et al.</name>
+<date>20090600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D600898</doc-number>
+<kind>S</kind>
+<name>St-Louis</name>
+<date>20090900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2969</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>D600899</doc-number>
+<kind>S</kind>
+<name>St-Louis</name>
+<date>20090900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 2969</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D600900</doc-number>
+<kind>S</kind>
+<name>St-Louis et al.</name>
+<date>20090900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>D633697</doc-number>
+<kind>S</kind>
+<name>Mann</name>
+<date>20110300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D659986</doc-number>
+<kind>S</kind>
+<name>Maejima</name>
+<date>20120500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>D693107</doc-number>
+<kind>S</kind>
+<name>Dolce</name>
+<date>20131100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>D693108</doc-number>
+<kind>S</kind>
+<name>Chung</name>
+<date>20131100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>D768374</doc-number>
+<kind>S</kind>
+<name>Roulo</name>
+<date>20161000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>D789054</doc-number>
+<kind>S</kind>
+<name>Shyllon</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>D805285</doc-number>
+<kind>S</kind>
+<name>Behr</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>D829433</doc-number>
+<kind>S</kind>
+<name>Sokol</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>D851906</doc-number>
+<kind>S</kind>
+<name>Hong</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>D866157</doc-number>
+<kind>S</kind>
+<name>Behr</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>D876077</doc-number>
+<kind>S</kind>
+<name>Cruz</name>
+<date>20200200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>D876795</doc-number>
+<kind>S</kind>
+<name>Gerig</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00045">
+<othercit>Nike Footwear Catalog, 1985 Footwear, p. 5, published Nov. 1983, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00046">
+<othercit>Nike Footwear Catalog, 1987 Fall Footwear, p. 24, published Jan. 1987, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00047">
+<othercit>Nike Footwear Catalog, 1987 Fall Footwear, p. 50, published Jan. 1987, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00048">
+<othercit>Nike Footwear Catalog, 1988 Spring Footwear, p. 22, published Mar. 1988, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00049">
+<othercit>Nike Footwear Catalog, 1988 Fall Footwear, p. 94, published Dec. 1987, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00050">
+<othercit>Nike Footwear Catalog, 1997 Spring Footwear, p. 6, published Mar. 1997, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00051">
+<othercit>Nike Footwear Catalog, 1998 Late Fall Footwear, p. 214, published Mar. 1998, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00052">
+<othercit>Nike Footwear Catalog, 2000 Fall Men's and Women's Footwear (blue cover), p. W19, published Nov. 1999, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00053">
+<othercit>Nike Footwear Catalog, 2006 Fall Footwear, p. 13, published Nov. 2004, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00054">
+<othercit>Nike Footwear Catalog, 2012 Fall Men's Footwear Sportswear Best, p. 19, published Nov. 2010, Nike, Inc., USA.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00055">
+<othercit>&#x201c;Embrace Audacity with Nike x Undercover's Winter Collection&#x201d;; Nike News; retrieved May 6, 2020; published Nov. 22, 2019; URL: &#x3c;https://news.nike.com/news/nike-x-undercover-react-boot-and-am720-official-images&#x3e;.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00056">
+<othercit>'The Nike Vapormax Plus Blessed With Gilded Accents'; Sneaker News; retrieved May 06, 2020; published Feb. 22, 2020; URL: &#x3c;https://sneakernews.com/2020/02/22/nike-air-vapormax-plus-cw7299-001/&#x3e;.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 2896</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2902</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2904</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2906-908</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2969</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 2972-974</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>A43B 13/141</classification-cpc-text>
+<classification-cpc-text>A43B 13/186</classification-cpc-text>
+<classification-cpc-text>A43B 13/188</classification-cpc-text>
+<classification-cpc-text>A43B 23/26</classification-cpc-text>
+<classification-cpc-text>A43B 1/04</classification-cpc-text>
+<classification-cpc-text>A43B 23/00</classification-cpc-text>
+<classification-cpc-text>A43B 5/00</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>NIKE, Inc.</orgname>
+<address>
+<city>Beaverton</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Street</last-name>
+<first-name>Aaron</first-name>
+<address>
+<city>Portland</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Banner &#x26; Witcoff, Ltd.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>NIKE, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Beaverton</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Ramirez</last-name>
+<first-name>Cynthia</first-name>
+<department>2926</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Yu</last-name>
+<first-name>Laura H</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="132.67mm" wi="238.76mm" file="USD0917866-20210504-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="233.43mm" wi="167.05mm" orientation="landscape" file="USD0917866-20210504-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="240.79mm" wi="159.09mm" orientation="landscape" file="USD0917866-20210504-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="216.58mm" wi="168.49mm" orientation="landscape" file="USD0917866-20210504-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view of a shoe showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a side view thereof; and,</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a rear perspective view thereof.</p>
+<p id="p-0004" num="0004">The uneven-length broken lines immediately adjacent to the shaded area define the bounds of the claimed design and form no part thereof. The even-length broken lines within the shaded area represent stitching and form no part of the claimed design. The uneven-length broken lines depicting the remainder of the shoe form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a shoe, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

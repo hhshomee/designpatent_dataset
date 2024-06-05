@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0930094-20210907.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210817" date-publ="20210907">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0930094</doc-number>
+<kind>S1</kind>
+<date>20210907</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29730769</doc-number>
+<date>20200408</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>2102</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D21725</main-classification>
+</classification-national>
+<invention-title id="d2e53">Bat</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2031161</doc-number>
+<kind>A</kind>
+<name>Hamel</name>
+<date>19360200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63B 60/08</classification-cpc-text>
+<classification-national><country>US</country><main-classification>473568</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D178866</doc-number>
+<kind>S</kind>
+<name>Cole, Sr.</name>
+<date>19561000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D263863</doc-number>
+<kind>S</kind>
+<name>Golab</name>
+<date>19820400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5482270</doc-number>
+<kind>A</kind>
+<name>Smith</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63B 60/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>473568</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5577722</doc-number>
+<kind>A</kind>
+<name>Glassberg</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63B 60/08</classification-cpc-text>
+<classification-national><country>US</country><main-classification>473457</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5839983</doc-number>
+<kind>A</kind>
+<name>Kramer</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63B 60/12</classification-cpc-text>
+<classification-national><country>US</country><main-classification>473568</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D443662</doc-number>
+<kind>S</kind>
+<name>Udwin</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D444193</doc-number>
+<kind>S</kind>
+<name>Dodson</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D475425</doc-number>
+<kind>S</kind>
+<name>Larsen</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D521092</doc-number>
+<kind>S</kind>
+<name>Morales</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D702302</doc-number>
+<kind>S</kind>
+<name>Rockhill</name>
+<date>20140400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63B 69/0002</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D706884</doc-number>
+<kind>S</kind>
+<name>Saber</name>
+<date>20140600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21722</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D714407</doc-number>
+<kind>S</kind>
+<name>Santorelli</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D735286</doc-number>
+<kind>S</kind>
+<name>Luden</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21756</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D785109</doc-number>
+<kind>S</kind>
+<name>Clark</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D830483</doc-number>
+<kind>S</kind>
+<name>Jo</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D849163</doc-number>
+<kind>S</kind>
+<name>Yarborough</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>10478688</doc-number>
+<kind>B1</kind>
+<name>Stevens</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A63B 60/08</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D872202</doc-number>
+<kind>S</kind>
+<name>Lancisi</name>
+<date>20200100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21753</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D898544</doc-number>
+<kind>S</kind>
+<name>Promo</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B25G 1/102</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 8303</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D905182</doc-number>
+<kind>S</kind>
+<name>Soderquist</name>
+<date>20201200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D914117</doc-number>
+<kind>S</kind>
+<name>Soderquist</name>
+<date>20210300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D916219</doc-number>
+<kind>S</kind>
+<name>Soderquist</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21725</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D21722</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21725</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21753</main-classification>
+</classification-national>
+<classification-cpc-text>A63B 59/00</classification-cpc-text>
+<classification-cpc-text>A63B 59/50-58</classification-cpc-text>
+<classification-cpc-text>A63B 59/80</classification-cpc-text>
+<classification-cpc-text>A63B 60/00</classification-cpc-text>
+<classification-cpc-text>A63B 60/46</classification-cpc-text>
+<classification-cpc-text>A63B 2102/00</classification-cpc-text>
+<classification-cpc-text>A63B 2102/10</classification-cpc-text>
+<classification-cpc-text>A63B 2102/12</classification-cpc-text>
+<classification-cpc-text>A63B 2102/26</classification-cpc-text>
+<classification-cpc-text>A63B 2102/28</classification-cpc-text>
+<classification-cpc-text>A63B 2102/30</classification-cpc-text>
+<classification-cpc-text>A63B 2102/38</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>ABO Baseball Inc.</orgname>
+<address>
+<city>Tillsonburg</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Oakes</last-name>
+<first-name>Trevor</first-name>
+<address>
+<city>Tillsonburg</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Dickinson Wright LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Chumak</last-name>
+<first-name>Yuri</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>ABO BASEBALL INC.</orgname>
+<role>03</role>
+<address>
+<city>Tillsonburg</city>
+<country>CA</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Siegel</last-name>
+<first-name>Mitchell I.</first-name>
+<department>2912</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="149.27mm" wi="133.10mm" file="USD0930094-20210907-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="170.18mm" wi="135.13mm" file="USD0930094-20210907-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="201.85mm" wi="136.14mm" file="USD0930094-20210907-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a bat showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is an elevation view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is an enlarged fragmentary elevation view of the bottom portion of the bat;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a top plan view of <figref idref="DRAWINGS">FIG. 1</figref>; and,</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a bottom plan view of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0006" num="0006">The features shown in broken lines do not form part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a bat, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

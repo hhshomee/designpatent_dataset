@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0919622-20210518.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210503" date-publ="20210518">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0919622</doc-number>
+<kind>S1</kind>
+<date>20210518</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29736776</doc-number>
+<date>20200603</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EM</country>
+<doc-number>007974381</doc-number>
+<date>20200529</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1402</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D14385</main-classification>
+<further-classification>D18  46</further-classification>
+</classification-national>
+<invention-title id="d2e71">Attendance machine</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D637189</doc-number>
+<kind>S</kind>
+<name>Hemming et al.</name>
+<date>20110500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D725655</doc-number>
+<kind>S</kind>
+<name>Debaigue</name>
+<date>20150300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14385</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D728568</doc-number>
+<kind>S</kind>
+<name>Debaigue</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14385</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D740287</doc-number>
+<kind>S</kind>
+<name>Peschel</name>
+<date>20151000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14385</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D743395</doc-number>
+<kind>S</kind>
+<name>Chen</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D752131</doc-number>
+<kind>S</kind>
+<name>Chatterton</name>
+<date>20160300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D18  46</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D766238</doc-number>
+<kind>S</kind>
+<name>Nguyen</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D10 97</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 98</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14383-386</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D18  46</main-classification>
+</classification-national>
+<classification-cpc-text>G07C 1/00</classification-cpc-text>
+<classification-cpc-text>G07C 1/02</classification-cpc-text>
+<classification-cpc-text>G07C 1/04</classification-cpc-text>
+<classification-cpc-text>G07C 1/06</classification-cpc-text>
+<classification-cpc-text>G07C 1/08</classification-cpc-text>
+<classification-cpc-text>G07C 1/10</classification-cpc-text>
+<classification-cpc-text>G07C 1/12</classification-cpc-text>
+<classification-cpc-text>G07C 1/14</classification-cpc-text>
+<classification-cpc-text>G07C 1/16</classification-cpc-text>
+<classification-cpc-text>G07C 1/18</classification-cpc-text>
+<classification-cpc-text>G07C 1/20</classification-cpc-text>
+<classification-cpc-text>G06K 19/08</classification-cpc-text>
+<classification-cpc-text>G06K 19/083</classification-cpc-text>
+<classification-cpc-text>G06K 19/086</classification-cpc-text>
+<classification-cpc-text>G06K 19/10</classification-cpc-text>
+<classification-cpc-text>G06K 19/12</classification-cpc-text>
+<classification-cpc-text>G06K 19/14</classification-cpc-text>
+<classification-cpc-text>G06K 19/145</classification-cpc-text>
+<classification-cpc-text>G06K 19/16</classification-cpc-text>
+<classification-cpc-text>G06K 19/18</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Guangdong Chuangxian Information Technology Co., Ltd.</orgname>
+<address>
+<city>Guangzhou</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Wen</last-name>
+<first-name>Shuigen</first-name>
+<address>
+<city>Pingxiang</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Davis</last-name>
+<first-name>Antoine Duval</first-name>
+<department>2917</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="148.17mm" wi="110.41mm" file="USD0919622-20210518-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="194.48mm" wi="112.44mm" file="USD0919622-20210518-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="197.10mm" wi="125.90mm" file="USD0919622-20210518-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="220.56mm" wi="49.70mm" file="USD0919622-20210518-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="224.37mm" wi="49.70mm" file="USD0919622-20210518-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="222.00mm" wi="53.59mm" file="USD0919622-20210518-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="221.57mm" wi="53.59mm" file="USD0919622-20210518-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="138.43mm" wi="49.70mm" file="USD0919622-20210518-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="141.31mm" wi="50.97mm" file="USD0919622-20210518-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a first perspective view of an attendance machine showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a second perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a front view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a back view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a left side view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a right side view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a top view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. 8</figref> is a bottom view thereof.</p>
+<p id="p-0009" num="0009">The broken lines shown in the drawings depict portions of the attendance machine in which the design is embodied that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for an attendance machine, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0928145-20210817.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210728" date-publ="20210817">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0928145</doc-number>
+<kind>S1</kind>
+<date>20210817</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29714194</doc-number>
+<date>20191121</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1402</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D14341</main-classification>
+</classification-national>
+<invention-title id="d2e53">Tablet computer</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D705775</doc-number>
+<kind>S</kind>
+<name>Canizares</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D750621</doc-number>
+<kind>S</kind>
+<name>Loor Canizares</name>
+<date>20160300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D786238</doc-number>
+<kind>S</kind>
+<name>Roberts</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D795249</doc-number>
+<kind>S</kind>
+<name>Wall</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D801330</doc-number>
+<kind>S</kind>
+<name>Morgan</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D807348</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D810075</doc-number>
+<kind>S</kind>
+<name>Liu</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D810745</doc-number>
+<kind>S</kind>
+<name>Luo</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14389</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D835097</doc-number>
+<kind>S</kind>
+<name>Morgan</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D839266</doc-number>
+<kind>S</kind>
+<name>Chang</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D842852</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D856322</doc-number>
+<kind>S</kind>
+<name>Huebner</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D867452</doc-number>
+<kind>S</kind>
+<name>Morris</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D19113</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00014">
+<othercit>The Remarkable 2 , first available Mar. 17, 2020, https://goodereader.com/, [online], [site visited Oct. 27, 2020], Available from internet URL: https://goodereader.com/blog/electronic-readers/the-remarkable-2-will-be-released-in-june-for-399 (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00015">
+<othercit>Lenovo., &#x201c;Lenovo Tab E 10 1&#x2033; Android Tablet 2GB,&#x201d; Amazon.com, undated, 13 pages, [Online] [Retrieved on Feb. 25, 2021], Retrieved from the Internet &#x3c;URL: https://www.amazon.com/Lenovo-Tab- Android-Tablet-2GB/dp/B07NJK69YN/&#x3e;.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00016">
+<othercit>United States Office Action, U.S. Appl. No. 29/763,845, dated Mar. 4, 2021, eight pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D14341</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14388-389</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14371</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14374</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14420</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14426</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14129-130</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14315-318</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14342-347</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D14496</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21324</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21329</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24186</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D101044</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 50</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 65</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D10 74</main-classification>
+</classification-national>
+<classification-cpc-text>G06F 1/16</classification-cpc-text>
+<classification-cpc-text>G06F 1/1632</classification-cpc-text>
+<classification-cpc-text>G06F 1/1616</classification-cpc-text>
+<classification-cpc-text>G06F 1/1626</classification-cpc-text>
+<classification-cpc-text>G06F 1/1658</classification-cpc-text>
+<classification-cpc-text>G06F 1/1688</classification-cpc-text>
+<classification-cpc-text>G06F 1/1613</classification-cpc-text>
+<classification-cpc-text>G06F 2200/1633</classification-cpc-text>
+<classification-cpc-text>G06F 3/0488</classification-cpc-text>
+<classification-cpc-text>G06F 3/04886</classification-cpc-text>
+<classification-cpc-text>G06F 3/044</classification-cpc-text>
+<classification-cpc-text>G06F 3/0412</classification-cpc-text>
+<classification-cpc-text>G06F 3/0416</classification-cpc-text>
+<classification-cpc-text>H01M 10/44</classification-cpc-text>
+<classification-cpc-text>F16M 11/10</classification-cpc-text>
+<classification-cpc-text>F16M 11/02</classification-cpc-text>
+<classification-cpc-text>H05K 7/1465</classification-cpc-text>
+<classification-cpc-text>A45C 2011/002</classification-cpc-text>
+<classification-cpc-text>A45C 2011/003</classification-cpc-text>
+<classification-cpc-text>H04B 1/3888</classification-cpc-text>
+<classification-cpc-text>H04M 1/185</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>REMARKABLE AS</orgname>
+<address>
+<city>Oslo</city>
+<country>NO</country>
+</address>
+</addressbook>
+<residence>
+<country>NO</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Solberg</last-name>
+<first-name>Mats Herding</first-name>
+<address>
+<city>Oslo</city>
+<country>NO</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Wanberg</last-name>
+<first-name>Magnus Haug</first-name>
+<address>
+<city>Oslo</city>
+<country>NO</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Fenwick &#x26; West LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>REMARKABLE AS</orgname>
+<role>03</role>
+<address>
+<city>Oslo</city>
+<country>NO</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Lawrence</last-name>
+<first-name>Samantha Q</first-name>
+<department>2921</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Rodriguez</last-name>
+<first-name>Holly M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="112.44mm" wi="224.45mm" file="USD0928145-20210817-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="226.48mm" wi="135.04mm" orientation="landscape" file="USD0928145-20210817-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="236.90mm" wi="168.32mm" orientation="landscape" file="USD0928145-20210817-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="234.95mm" wi="168.32mm" orientation="landscape" file="USD0928145-20210817-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="164.34mm" wi="27.94mm" orientation="landscape" file="USD0928145-20210817-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="164.34mm" wi="28.02mm" orientation="landscape" file="USD0928145-20210817-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="213.87mm" wi="28.02mm" orientation="landscape" file="USD0928145-20210817-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="214.12mm" wi="28.02mm" orientation="landscape" file="USD0928145-20210817-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front and left perspective view of a tablet computer;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a front view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a rear view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a top view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a bottom view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a right view thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a left view thereof.</p>
+<p id="p-0008" num="0008">The broken lines in the drawings illustrate portions of the tablet computer that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a tablet computer, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

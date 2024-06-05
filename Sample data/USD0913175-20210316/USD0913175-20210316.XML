@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0913175-20210316.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210301" date-publ="20210316">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0913175</doc-number>
+<kind>S1</kind>
+<date>20210316</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29654405</doc-number>
+<date>20180623</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1216</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D12193</main-classification>
+</classification-national>
+<invention-title id="d2e53">License plate fastener cap</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D524708</doc-number>
+<kind>S</kind>
+<name>Spencer</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12193</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D572141</doc-number>
+<kind>S</kind>
+<name>Slabaugh</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9414</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D614074</doc-number>
+<kind>S</kind>
+<name>Castaline</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D11 79</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D682442</doc-number>
+<kind>S</kind>
+<name>Nguyen</name>
+<date>20130500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24224</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D685565</doc-number>
+<kind>S</kind>
+<name>Bhandula</name>
+<date>20130700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D99  1</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D689802</doc-number>
+<kind>S</kind>
+<name>Spencer</name>
+<date>20130900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12193</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D705712</doc-number>
+<kind>S</kind>
+<name>Spencer</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12193</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D726828</doc-number>
+<kind>S</kind>
+<name>Spencer</name>
+<date>20150400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D20 11</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D804456</doc-number>
+<kind>S</kind>
+<name>Katopis</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14223</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D806246</doc-number>
+<kind>S</kind>
+<name>Schraga</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24146</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D811622</doc-number>
+<kind>S</kind>
+<name>Flood</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D25113</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D812594</doc-number>
+<kind>S</kind>
+<name>Katopis</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14223</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D824801</doc-number>
+<kind>S</kind>
+<name>Spencer</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D11200</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D859776</doc-number>
+<kind>S</kind>
+<name>Khan</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D99  5</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D869817</doc-number>
+<kind>S</kind>
+<name>White</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1109</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D874273</doc-number>
+<kind>S</kind>
+<name>Katopis</name>
+<date>20200200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 9451</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D898974</doc-number>
+<kind>S</kind>
+<name>Hollinger</name>
+<date>20201000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D26 73</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D12193</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11200</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11204</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11 79</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11 87</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D20 13</main-classification>
+</classification-national>
+<classification-cpc-text>B60R 13/10</classification-cpc-text>
+<classification-cpc-text>B60R 13/105</classification-cpc-text>
+<classification-cpc-text>B60R 19/24</classification-cpc-text>
+<classification-cpc-text>B60R 19/52</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Cruiser Accessories, LLC</orgname>
+<address>
+<city>Monument</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Spencer</last-name>
+<first-name>Todd R.</first-name>
+<address>
+<city>Monument</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Basenberg, Jr.</last-name>
+<first-name>M. Hunter</first-name>
+<address>
+<city>Colorado Springs</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="003" designation="us-only">
+<addressbook>
+<last-name>Basenberg</last-name>
+<first-name>Maureen G.</first-name>
+<address>
+<city>Colorado Springs</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Gould</last-name>
+<first-name>Linda Flewellen</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Cruiser Accessories, LLC</orgname>
+<role>02</role>
+<address>
+<city>Monument</city>
+<state>CO</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Vujcic</last-name>
+<first-name>Natasha</first-name>
+<department>2913</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="94.06mm" wi="78.57mm" file="USD0913175-20210316-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="225.89mm" wi="98.72mm" file="USD0913175-20210316-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="181.44mm" wi="95.42mm" file="USD0913175-20210316-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="238.68mm" wi="39.29mm" file="USD0913175-20210316-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective top and front view showing our new design for a license plate fastener cap.</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is front view of the license plate fastener cap of the present invention.</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a bottom view of the license plate fastener cap of the present invention.</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a top view of the license plate fastener cap of the present invention.</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a right side view of the license plate fastener cap of the present invention; and,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is left side view of the license plate fastener cap of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a license plate fastener cap, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

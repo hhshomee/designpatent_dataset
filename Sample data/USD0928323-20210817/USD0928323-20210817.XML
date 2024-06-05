@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0928323-20210817.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210727" date-publ="20210817">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0928323</doc-number>
+<kind>S1</kind>
+<date>20210817</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29653677</doc-number>
+<date>20180618</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>61</class>
+<subclass>C</subclass>
+<main-group>8</main-group>
+<subgroup>006</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20210817</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>2402</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D24156</main-classification>
+</classification-national>
+<invention-title id="d2e53">Dental abutment</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6488501</doc-number>
+<kind>B1</kind>
+<name>Harding</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0001</classification-cpc-text>
+<classification-national><country>US</country><main-classification>433173</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D477667</doc-number>
+<kind>S</kind>
+<name>Whitehead</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D477876</doc-number>
+<kind>S</kind>
+<name>Whitehead</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D477877</doc-number>
+<kind>S</kind>
+<name>Whitehead</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D477878</doc-number>
+<kind>S</kind>
+<name>Whitehead</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D477879</doc-number>
+<kind>S</kind>
+<name>Whitehead</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D482450</doc-number>
+<kind>S</kind>
+<name>Whitehead</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D562453</doc-number>
+<kind>S</kind>
+<name>Rassoli</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D611603</doc-number>
+<kind>S</kind>
+<name>Noguchi</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D611604</doc-number>
+<kind>S</kind>
+<name>Aoyagi</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D663032</doc-number>
+<kind>S</kind>
+<name>Mashio</name>
+<date>20120700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D663419</doc-number>
+<kind>S</kind>
+<name>Mashio</name>
+<date>20120700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>8419429</doc-number>
+<kind>B2</kind>
+<name>Wang</name>
+<date>20130400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0068</classification-cpc-text>
+<classification-national><country>US</country><main-classification>433173</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>8506296</doc-number>
+<kind>B2</kind>
+<name>Bassett</name>
+<date>20130800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0001</classification-cpc-text>
+<classification-national><country>US</country><main-classification>433173</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D732668</doc-number>
+<kind>S</kind>
+<name>Fisler et al.</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D732669</doc-number>
+<kind>S</kind>
+<name>Fisler et al.</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D733885</doc-number>
+<kind>S</kind>
+<name>Andersin et al.</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D734464</doc-number>
+<kind>S</kind>
+<name>Andersin et al.</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D740425</doc-number>
+<kind>S</kind>
+<name>Saltell</name>
+<date>20151000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D743033</doc-number>
+<kind>S</kind>
+<name>Fisler et al.</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D800308</doc-number>
+<kind>S</kind>
+<name>LeBeau</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0001</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D24156</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D868255</doc-number>
+<kind>S</kind>
+<name>Azuma</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24156</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D868256</doc-number>
+<kind>S</kind>
+<name>Yokohara</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24156</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D868257</doc-number>
+<kind>S</kind>
+<name>Akiyama</name>
+<date>20191100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24156</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>2004/0265781</doc-number>
+<kind>A1</kind>
+<name>Coatoam</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0089</classification-cpc-text>
+<classification-national><country>US</country><main-classification>433173</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2007/0077535</doc-number>
+<kind>A1</kind>
+<name>Wichmann</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0022</classification-cpc-text>
+<classification-national><country>US</country><main-classification>433174</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2012/0052463</doc-number>
+<kind>A1</kind>
+<name>Pollet</name>
+<date>20120300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0001</classification-cpc-text>
+<classification-national><country>US</country><main-classification>433172</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2014/0212845</doc-number>
+<kind>A1</kind>
+<name>Wadhwani</name>
+<date>20140700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 13/08</classification-cpc-text>
+<classification-national><country>US</country><main-classification>433174</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2018/0049849</doc-number>
+<kind>A1</kind>
+<name>Lamar</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0089</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2018/0243053</doc-number>
+<kind>A1</kind>
+<name>Elsner</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0001</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2019/0223990</doc-number>
+<kind>A1</kind>
+<name>Nuytens</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61C 8/0001</classification-cpc-text>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D24155-157</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>433172-174</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>A61C 8/0089</classification-cpc-text>
+<classification-cpc-text>A61C 8/0069</classification-cpc-text>
+<classification-cpc-text>A61C 8/0054</classification-cpc-text>
+<classification-cpc-text>A61C 8/00</classification-cpc-text>
+<classification-cpc-text>A61C 8/0096</classification-cpc-text>
+<classification-cpc-text>A61C 8/0039</classification-cpc-text>
+<classification-cpc-text>A61C 8/0063</classification-cpc-text>
+<classification-cpc-text>A61C 8/006</classification-cpc-text>
+<classification-cpc-text>A61C 8/0001</classification-cpc-text>
+<classification-cpc-text>A61C 8/0012</classification-cpc-text>
+<classification-cpc-text>A61C 8/0075</classification-cpc-text>
+<classification-cpc-text>A61C 13/225</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>35501206</doc-number>
+<date>20160113</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>D825059</doc-number>
+</document-id>
+</parent-grant-document>
+<international-filing-date><date>20160113</date></international-filing-date>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29653677</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Ivoclar Vivadent AG</orgname>
+<address>
+<city>Schaan</city>
+<country>LI</country>
+</address>
+</addressbook>
+<residence>
+<country>LI</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Burger</last-name>
+<first-name>Goran</first-name>
+<address>
+<city>Grabs</city>
+<country>CH</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Knab</last-name>
+<first-name>Ann M.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>McMurray</last-name>
+<first-name>Thad</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Ivoclar Vivadent AG</orgname>
+<role>03</role>
+<address>
+<city>Schaan</city>
+<country>LI</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Chilcot</last-name>
+<first-name>Richard E</first-name>
+<department>2916</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="105.92mm" wi="141.05mm" file="USD0928323-20210817-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="154.18mm" wi="64.85mm" file="USD0928323-20210817-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="149.27mm" wi="64.85mm" file="USD0928323-20210817-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="147.74mm" wi="64.85mm" file="USD0928323-20210817-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="134.62mm" wi="143.09mm" file="USD0928323-20210817-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="85.09mm" wi="64.26mm" file="USD0928323-20210817-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="152.99mm" wi="64.85mm" file="USD0928323-20210817-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="82.72mm" wi="64.52mm" file="USD0928323-20210817-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a left side view of a dental abutment showing my new design.</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a rear view thereof.</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a right side view thereof.</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> a perspective view thereof.</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a top view thereof.</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a front thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a bottom view thereof.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a dental abutment, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

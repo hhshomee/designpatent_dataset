@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0937859-20211207.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20211117" date-publ="20211207">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0937859</doc-number>
+<kind>S1</kind>
+<date>20211207</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29695079</doc-number>
+<date>20190614</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>201930003674.0</doc-number>
+<date>20190104</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1404</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D14486</main-classification>
+</classification-national>
+<invention-title id="d2e71">Display screen or portion thereof with a graphical user interface</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D562335</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D662107</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20120600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D701217</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20140300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D704220</doc-number>
+<kind>S</kind>
+<name>Lim</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D709917</doc-number>
+<kind>S</kind>
+<name>Faulkner</name>
+<date>20140700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14494</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D715317</doc-number>
+<kind>S</kind>
+<name>Pearce</name>
+<date>20141000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D723059</doc-number>
+<kind>S</kind>
+<name>Shiplacoff</name>
+<date>20150200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D726221</doc-number>
+<kind>S</kind>
+<name>Gomez</name>
+<date>20150400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D731525</doc-number>
+<kind>S</kind>
+<name>Myers</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14488</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D739878</doc-number>
+<kind>S</kind>
+<name>Baxley</name>
+<date>20150900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D754713</doc-number>
+<kind>S</kind>
+<name>Zhang</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14487</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D759668</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20160600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D762673</doc-number>
+<kind>S</kind>
+<name>Seo</name>
+<date>20160800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D763869</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20160800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D763916</doc-number>
+<kind>S</kind>
+<name>Um</name>
+<date>20160800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D766289</doc-number>
+<kind>S</kind>
+<name>Bauer</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D777204</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14489</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D778923</doc-number>
+<kind>S</kind>
+<name>Zhou</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D780781</doc-number>
+<kind>S</kind>
+<name>Ding</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D784363</doc-number>
+<kind>S</kind>
+<name>Fleming</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>9652135</doc-number>
+<kind>B2</kind>
+<name>Seo</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G06F 3/04847</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D789416</doc-number>
+<kind>S</kind>
+<name>Baluja</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14490</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D797123</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D799503</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D801999</doc-number>
+<kind>S</kind>
+<name>Hersh</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D803233</doc-number>
+<kind>S</kind>
+<name>Wilberding</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D803870</doc-number>
+<kind>S</kind>
+<name>Landry</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14488</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D805536</doc-number>
+<kind>S</kind>
+<name>Yan</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D806730</doc-number>
+<kind>S</kind>
+<name>De Greiff</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D806733</doc-number>
+<kind>S</kind>
+<name>Lim</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>D816690</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D821407</doc-number>
+<kind>S</kind>
+<name>Wilberding</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>D835141</doc-number>
+<kind>S</kind>
+<name>Li</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D835665</doc-number>
+<kind>S</kind>
+<name>Kimura</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14488</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>D837262</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14492</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>D842891</doc-number>
+<kind>S</kind>
+<name>MacLean</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>D916112</doc-number>
+<kind>S</kind>
+<name>Ilic</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>D916724</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14485</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>D916881</doc-number>
+<kind>S</kind>
+<name>Jonasson</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14488</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>D917555</doc-number>
+<kind>S</kind>
+<name>Jonasson</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14488</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>D917559</doc-number>
+<kind>S</kind>
+<name>Ways</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14489</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>D917560</doc-number>
+<kind>S</kind>
+<name>Keller</name>
+<date>20210400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14489</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>D923652</doc-number>
+<kind>S</kind>
+<name>Sun</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14486</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>2013/0070093</doc-number>
+<kind>A1</kind>
+<name>Rivera</name>
+<date>20130300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G06Q 20/384</classification-cpc-text>
+<classification-national><country>US</country><main-classification>348143</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>2014/0227964</doc-number>
+<kind>A1</kind>
+<name>Cox</name>
+<date>20140800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H04N 21/6193</classification-cpc-text>
+<classification-national><country>US</country><main-classification>455  302</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>2019/0196772</doc-number>
+<kind>A1</kind>
+<name>Matsubara</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G06F 3/0484</classification-cpc-text>
+</us-citation>
+<us-citation>
+<nplcit num="00047">
+<othercit>&#x201c;How To Identify A Song || Best Music Recognition App || Telugu&#x201d; Dec. 27, 2017, YouTube, site visited Apr. 8, 2021: https://www.youtube.com/watch?v=W_fGTssF830 (Year: 2017).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00048">
+<othercit>&#x201c;The best music recognition app. A shazam alternative, better than shazam&#x201d; Dec. 24, 2017, YouTube, site visited Apr. 8, 2021: https://www.youtube.com/watch?v=nsS2pCMtwe0 (Year: 2017).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D14485-495</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-cpc-text>G06F 3/048</classification-cpc-text>
+<classification-cpc-text>G06F 3/0481</classification-cpc-text>
+<classification-cpc-text>G06F 3/04817</classification-cpc-text>
+<classification-cpc-text>G06F 3/0482</classification-cpc-text>
+<classification-cpc-text>G06F 3/0483</classification-cpc-text>
+<classification-cpc-text>G06F 3/04842</classification-cpc-text>
+<classification-cpc-text>G06F 3/0485</classification-cpc-text>
+<classification-cpc-text>G06F 3/04855</classification-cpc-text>
+<classification-cpc-text>G06F 3/0486</classification-cpc-text>
+<classification-cpc-text>G06F 3/0488</classification-cpc-text>
+<classification-cpc-text>G06F 3/04886</classification-cpc-text>
+<classification-cpc-text>G06F 9/4443</classification-cpc-text>
+<classification-cpc-text>G06F 17/211</classification-cpc-text>
+<classification-cpc-text>G06F 17/212</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>1</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Beijing Kuaimajiabian Technology Co., Ltd.</orgname>
+<address>
+<city>Beijing</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Niu</last-name>
+<first-name>Chunjiao</first-name>
+<address>
+<city>Beijing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>BakerHostetler</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Beijing Kuaimajiabian Technology Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Beijing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Reickel</last-name>
+<first-name>Jack</first-name>
+<department>2914</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="140.29mm" wi="80.69mm" file="USD0937859-20211207-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="142.32mm" wi="82.72mm" file="USD0937859-20211207-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">The FIGURE is a from view of a display screen or portion thereof with a graphical user interface showing the new design.</p>
+<p id="p-0002" num="0002">The broken lines shown in the FIGURE represent portions of the display screen or portion thereof with a graphical user interface that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>I claim the ornamental design for a display screen or portion thereof with a graphical user interface, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

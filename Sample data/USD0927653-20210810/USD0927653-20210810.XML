@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0927653-20210810.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210720" date-publ="20210810">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0927653</doc-number>
+<kind>S1</kind>
+<date>20210810</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29755824</doc-number>
+<date>20201023</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>2301</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D23262</main-classification>
+</classification-national>
+<invention-title id="d2e55">Irrigation coupling assembly</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>348059</doc-number>
+<kind>A</kind>
+<name>Schroder</name>
+<date>18860800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>943900</doc-number>
+<kind>A</kind>
+<name>Smith</name>
+<date>19091200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1572979</doc-number>
+<kind>A</kind>
+<name>Whybrew</name>
+<date>19210200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1525794</doc-number>
+<kind>A</kind>
+<name>Anton</name>
+<date>19220400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2469538</doc-number>
+<kind>A</kind>
+<name>Young</name>
+<date>19470400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2627429</doc-number>
+<kind>A</kind>
+<name>Engelman</name>
+<date>19501000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2921801</doc-number>
+<kind>A</kind>
+<name>Beyer</name>
+<date>19550300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2746772</doc-number>
+<kind>A</kind>
+<name>Race et al.</name>
+<date>19560500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2874979</doc-number>
+<kind>A</kind>
+<name>Shohan</name>
+<date>19590200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 37/54</classification-cpc-text>
+<classification-national><country>US</country><main-classification>285  6</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3331620</doc-number>
+<kind>A</kind>
+<name>Rickard</name>
+<date>19670700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 37/54</classification-cpc-text>
+<classification-national><country>US</country><main-classification>285  5</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>3362730</doc-number>
+<kind>A</kind>
+<name>Clair et al.</name>
+<date>19680100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3386755</doc-number>
+<kind>A</kind>
+<name>Miller</name>
+<date>19680600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>3425632</doc-number>
+<kind>A</kind>
+<name>Stout</name>
+<date>19690200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B05B 15/622</classification-cpc-text>
+<classification-national><country>US</country><main-classification>239267</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>3471173</doc-number>
+<kind>A</kind>
+<name>Rickard</name>
+<date>19691000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 27/127</classification-cpc-text>
+<classification-national><country>US</country><main-classification>285  6</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>3485515</doc-number>
+<kind>A</kind>
+<name>Frishof</name>
+<date>19691200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>3539206</doc-number>
+<kind>A</kind>
+<name>Gheen et al.</name>
+<date>19701100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>3642306</doc-number>
+<kind>A</kind>
+<name>Gheen</name>
+<date>19720200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>3664688</doc-number>
+<kind>A</kind>
+<name>De Loach</name>
+<date>19720500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 37/54</classification-cpc-text>
+<classification-national><country>US</country><main-classification>285  6</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>3734545</doc-number>
+<kind>A</kind>
+<name>Stout</name>
+<date>19730500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 37/008</classification-cpc-text>
+<classification-national><country>US</country><main-classification>285  5</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>3735928</doc-number>
+<kind>A</kind>
+<name>Watts</name>
+<date>19730500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 37/146</classification-cpc-text>
+<classification-national><country>US</country><main-classification>239267</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>3866951</doc-number>
+<kind>A</kind>
+<name>DeLoach</name>
+<date>19750200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4135738</doc-number>
+<kind>A</kind>
+<name>Clements</name>
+<date>19790100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 27/087</classification-cpc-text>
+<classification-national><country>US</country><main-classification>239734</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4193616</doc-number>
+<kind>A</kind>
+<name>Sarson et al.</name>
+<date>19800300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>4488572</doc-number>
+<kind>A</kind>
+<name>Brown</name>
+<date>19841200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>4688833</doc-number>
+<kind>A</kind>
+<name>Todd</name>
+<date>19870800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>4722555</doc-number>
+<kind>A</kind>
+<name>Soultatis</name>
+<date>19880200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>4850620</doc-number>
+<kind>A</kind>
+<name>Puls</name>
+<date>19890700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>4893848</doc-number>
+<kind>A</kind>
+<name>Melcher</name>
+<date>19900100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>5451031</doc-number>
+<kind>A</kind>
+<name>Purvis et al.</name>
+<date>19950900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5511574</doc-number>
+<kind>A</kind>
+<name>Macke</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5511826</doc-number>
+<kind>A</kind>
+<name>Clare et al.</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5603508</doc-number>
+<kind>A</kind>
+<name>Dole</name>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 17/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>277314</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6231085</doc-number>
+<kind>B1</kind>
+<name>Olson</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>6302445</doc-number>
+<kind>B1</kind>
+<name>Kugele</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6312025</doc-number>
+<kind>B1</kind>
+<name>Wolfsdorf</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6343813</doc-number>
+<kind>B1</kind>
+<name>Olson</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>6672628</doc-number>
+<kind>B2</kind>
+<name>Thomas et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>7530606</doc-number>
+<kind>B1</kind>
+<name>Yang</name>
+<date>20090500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>D615165</doc-number>
+<kind>S</kind>
+<name>McAlpine</name>
+<date>20100500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>8398122</doc-number>
+<kind>B2</kind>
+<name>Crompton et al.</name>
+<date>20130300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>8459698</doc-number>
+<kind>B2</kind>
+<name>Magargal</name>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>9039047</doc-number>
+<kind>B2</kind>
+<name>Imai</name>
+<date>20150500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>9074714</doc-number>
+<kind>B2</kind>
+<name>Clare</name>
+<date>20150700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 47/12</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>D743446</doc-number>
+<kind>S</kind>
+<name>Jones</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>D744812</doc-number>
+<kind>S</kind>
+<name>Wilson</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8349</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>9765913</doc-number>
+<kind>B2</kind>
+<name>Magargal</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>F16L 41/14</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>2010/0072744</doc-number>
+<kind>A1</kind>
+<name>Xie</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>2010/0171302</doc-number>
+<kind>A1</kind>
+<name>Yoder</name>
+<date>20100700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>2012/0161433</doc-number>
+<kind>A1</kind>
+<name>Magargal et al.</name>
+<date>20120600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>2016/0161038</doc-number>
+<kind>A1</kind>
+<name>Crompton et al.</name>
+<date>20160600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>2018/0003325</doc-number>
+<kind>A1</kind>
+<name>Margaral et al.</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>2020/0088335</doc-number>
+<kind>A1</kind>
+<name>Shafer</name>
+<date>20200300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>2020/0224809</doc-number>
+<kind>A1</kind>
+<name>Lake</name>
+<date>20200700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00054">
+<document-id>
+<country>CA</country>
+<doc-number>707236</doc-number>
+<kind>A</kind>
+<date>19650400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00055">
+<document-id>
+<country>CN</country>
+<doc-number>103829883</doc-number>
+<kind>A</kind>
+<date>20140600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00056">
+<document-id>
+<country>DE</country>
+<doc-number>380607</doc-number>
+<kind>C</kind>
+<date>19230900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00057">
+<document-id>
+<country>EP</country>
+<doc-number>0061531</doc-number>
+<kind>A1</kind>
+<date>19811200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00058">
+<othercit>Aluminum, Dragline Pipe PDF, Rain for rent, Retrieved from the internet Jan. 11, 2021; Pdf Uploaded to website on Aug. 2018; https://www.rainforrent.com/wp-content/uploads/2018/08/Pipe.Dragline.Style_.Aluminum.pdf (Year: 2018).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00059">
+<othercit>English Abstract of CN103829883A retrieved on Feb. 6, 2019 from: &#x201c;https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=CN&#x26;NR=103829883A&#x26;KC=AFT=D&#x26;ND=&#x26;date=20140604&#x26;DB=&#x26;locale=&#x201d;.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00060">
+<othercit>English Translation of Abstract for DE380607C retrieved on Feb. 6, 2019 from:&#x201c;https://patents.google.com/patent/DE380607C/en7oq=DE380607C&#x201d;.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D23233</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23235</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23248</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23259</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23262-266</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D23268</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>137 1509</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>137561 A</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>13761404</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>138 37</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>138 39</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>138 44</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>138109</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24108</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24129</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2851251</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2851261</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2851272</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2851291</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2851301-1311</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2851321</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2851481</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285  5-  6</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285 18- 20</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285 27</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285 29</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285 61</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285111</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285305</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>285321</main-classification>
+</classification-national>
+<classification-cpc-text>F16L 41/14</classification-cpc-text>
+<classification-cpc-combination-text>F16L 37/52</classification-cpc-combination-text>
+<classification-cpc-combination-text>F16L 37/252</classification-cpc-combination-text>
+<classification-cpc-combination-text>F16L 37/148</classification-cpc-combination-text>
+<classification-cpc-combination-text>F16L 47/28</classification-cpc-combination-text>
+<classification-cpc-combination-text>F16L 47/24</classification-cpc-combination-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>15</number-of-drawing-sheets>
+<number-of-figures>15</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>29689004</doc-number>
+<date>20190425</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>D914852</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29755824</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>29680760</doc-number>
+<date>20190219</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29689004</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>29672756</doc-number>
+<date>20181207</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29680760</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>29755824</doc-number>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29680760</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16243102</doc-number>
+<date>20190109</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29755824</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Shafer</last-name>
+<first-name>Daniel</first-name>
+<address>
+<city>Springville</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Shafer</last-name>
+<first-name>Daniel</first-name>
+<address>
+<city>Springville</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Sierra IP Law, PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Nelson</last-name>
+<first-name>William K.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Wierenga</last-name>
+<first-name>Amy C</first-name>
+<department>2925</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="136.48mm" wi="119.13mm" file="USD0927653-20210810-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="166.79mm" wi="141.56mm" file="USD0927653-20210810-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="234.27mm" wi="162.05mm" file="USD0927653-20210810-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="200.91mm" wi="154.86mm" file="USD0927653-20210810-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="209.47mm" wi="172.13mm" file="USD0927653-20210810-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="210.74mm" wi="159.34mm" file="USD0927653-20210810-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="141.90mm" wi="115.57mm" orientation="landscape" file="USD0927653-20210810-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="148.00mm" wi="171.79mm" file="USD0927653-20210810-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="165.35mm" wi="115.32mm" file="USD0927653-20210810-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="121.16mm" wi="180.59mm" file="USD0927653-20210810-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="124.80mm" wi="166.12mm" file="USD0927653-20210810-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="130.89mm" wi="155.19mm" file="USD0927653-20210810-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="128.52mm" wi="152.40mm" file="USD0927653-20210810-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="152.23mm" wi="153.25mm" file="USD0927653-20210810-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="165.18mm" wi="155.02mm" file="USD0927653-20210810-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="162.81mm" wi="147.83mm" file="USD0927653-20210810-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> provides a top perspective view of the male and female components of the irrigation coupling assembly showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> provides a distal perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> provides a proximal bottom perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> provides a distal bottom perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> provides a top perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> provides a proximal perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> provides a top plan view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. 8</figref> provides a bottom plan view of the male and female components of the irrigation coupling assembly according to the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. 9</figref> provides a first side elevation view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. 10</figref> provides a second side elevation view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. 11</figref> provides a distal end axial elevation view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0012" num="0012"><figref idref="DRAWINGS">FIG. 12</figref> provides a proximal end axial elevation view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0013" num="0013"><figref idref="DRAWINGS">FIG. 13</figref> provides perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref> in axial alignment;</p>
+<p id="p-0014" num="0014"><figref idref="DRAWINGS">FIG. 14</figref> provides perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>, where the male component is axially inserted into the female component; and,</p>
+<p id="p-0015" num="0015"><figref idref="DRAWINGS">FIG. 15</figref> provides perspective view of the male and female components of the irrigation coupling assembly of the design of <figref idref="DRAWINGS">FIG. 1</figref>, where the male component is axially inserted into the female component and rotated into an interlocking position.</p>
+<p id="p-0016" num="0016">The broken lines shown in in the figures are for the purpose of illustrating portions of the irrigation coupling assembly that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>I claim the ornamental design for an irrigation coupling assembly, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

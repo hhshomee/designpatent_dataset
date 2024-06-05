@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0913943-20210323.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210308" date-publ="20210323">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0913943</doc-number>
+<kind>S1</kind>
+<date>20210323</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29681532</doc-number>
+<date>20190226</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1303</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D13133</main-classification>
+</classification-national>
+<invention-title id="d2e53">Clip on plug</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D291303</doc-number>
+<kind>S</kind>
+<name>Wood</name>
+<date>19870800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D487274</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14483</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D487724</doc-number>
+<kind>S</kind>
+<name>Hsiao</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13145</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D488130</doc-number>
+<kind>S</kind>
+<name>Hsiao</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13145</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D538227</doc-number>
+<kind>S</kind>
+<name>Holland</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D606944</doc-number>
+<kind>S</kind>
+<name>Mehnert</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D643815</doc-number>
+<kind>S</kind>
+<name>Mark</name>
+<date>20110800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D689602</doc-number>
+<kind>S</kind>
+<name>Amirav</name>
+<date>20130900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24110</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D702633</doc-number>
+<kind>S</kind>
+<name>Andre et al.</name>
+<date>20140400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D706715</doc-number>
+<kind>S</kind>
+<name>Ball</name>
+<date>20140600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D724029</doc-number>
+<kind>S</kind>
+<name>Huang</name>
+<date>20150300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D744422</doc-number>
+<kind>S</kind>
+<name>Landry</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D746773</doc-number>
+<kind>S</kind>
+<name>Andre et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D769194</doc-number>
+<kind>S</kind>
+<name>Greig</name>
+<date>20161000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13147</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D816616</doc-number>
+<kind>S</kind>
+<name>Corona</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13146</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D873219</doc-number>
+<kind>S</kind>
+<name>Sasaki</name>
+<date>20200100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D13133</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D880691</doc-number>
+<kind>S</kind>
+<name>Wang</name>
+<date>20200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D24129</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2003/0036312</doc-number>
+<kind>A1</kind>
+<name>Liao</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H02J 7/0042</classification-cpc-text>
+<classification-national><country>US</country><main-classification>439638</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2018/0069349</doc-number>
+<kind>A1</kind>
+<name>Kato</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>H01H 85/47</classification-cpc-text>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>CA</country>
+<doc-number>117014</doc-number>
+<kind>S</kind>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D13110-118</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13122</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13133</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13146</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13147</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13153</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13154</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13184</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D13199</main-classification>
+</classification-national>
+<classification-cpc-text>H01R 13/00</classification-cpc-text>
+<classification-cpc-text>H01R 13/424</classification-cpc-text>
+<classification-cpc-text>H01R 13/64</classification-cpc-text>
+<classification-cpc-text>H01R 4/00</classification-cpc-text>
+<classification-cpc-text>H01R 11/00</classification-cpc-text>
+<classification-cpc-text>H01R 31/06</classification-cpc-text>
+<classification-cpc-text>H01R 24/38</classification-cpc-text>
+<classification-cpc-text>H02J 3/38</classification-cpc-text>
+<classification-cpc-text>H02J 7/0042</classification-cpc-text>
+<classification-cpc-text>H02J 7/0045</classification-cpc-text>
+<classification-cpc-text>H02J 7/0052</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Hasan</last-name>
+<first-name>Faruq</first-name>
+<address>
+<city>Ottawa</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Hasan</last-name>
+<first-name>Faruq</first-name>
+<address>
+<city>Ottawa</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Barnes &#x26; Thornburg LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>CABLE GEAR HOLDINGS</orgname>
+<role>02</role>
+<address>
+<city>Katy</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Posthauer</last-name>
+<first-name>Catherine S</first-name>
+<department>2924</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Ofstun</last-name>
+<first-name>Alison M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="162.73mm" wi="99.82mm" file="USD0913943-20210323-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="193.38mm" wi="101.85mm" file="USD0913943-20210323-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="182.54mm" wi="70.02mm" file="USD0913943-20210323-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="182.54mm" wi="70.02mm" file="USD0913943-20210323-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="182.88mm" wi="98.30mm" file="USD0913943-20210323-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="182.88mm" wi="98.38mm" file="USD0913943-20210323-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="167.30mm" wi="70.44mm" file="USD0913943-20210323-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="167.13mm" wi="70.27mm" file="USD0913943-20210323-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="194.23mm" wi="101.60mm" file="USD0913943-20210323-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view of a clip on plug, showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a front elevational view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a rear elevational view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a left-side elevation view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a right-side elevation view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a top plan view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a bottom plan view thereof; and,</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. 8</figref> is a rear perspective view thereof.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>I claim the ornamental design for a clip on plug, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

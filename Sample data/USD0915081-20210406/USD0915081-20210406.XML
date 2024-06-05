@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0915081-20210406.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210322" date-publ="20210406">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0915081</doc-number>
+<kind>S1</kind>
+<date>20210406</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29705520</doc-number>
+<date>20190912</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>0505</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 59</main-classification>
+</classification-national>
+<invention-title id="d2e53">Quilted fabric</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D9467</doc-number>
+<kind>S</kind>
+<name>Scott et al.</name>
+<date>18760800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 99</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D15074</doc-number>
+<kind>S</kind>
+<name>Kimball</name>
+<date>18840600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 53</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D88250</doc-number>
+<kind>S</kind>
+<name>Merry</name>
+<date>19321100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 62</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D89982</doc-number>
+<kind>S</kind>
+<name>Willheim</name>
+<date>19330500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 63</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D90435</doc-number>
+<kind>S</kind>
+<name>Christen</name>
+<date>19330800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 62</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D90648</doc-number>
+<kind>S</kind>
+<name>Christen</name>
+<date>19330900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 61</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D121513</doc-number>
+<kind>S</kind>
+<name>Kaplan</name>
+<date>19400700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D132537</doc-number>
+<kind>S</kind>
+<name>Rhodes</name>
+<date>19420500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D29125</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2371318</doc-number>
+<kind>A</kind>
+<name>Rosenfeld</name>
+<date>19450300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B44C 3/12</classification-cpc-text>
+<classification-national><country>US</country><main-classification>112405</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D147347</doc-number>
+<kind>S</kind>
+<name>Morris</name>
+<date>19470800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 53</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2529945</doc-number>
+<kind>A</kind>
+<name>Hyman</name>
+<date>19501100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>E04F 13/18</classification-cpc-text>
+<classification-national><country>US</country><main-classification>428156</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3079212</doc-number>
+<kind>A</kind>
+<name>Fountain</name>
+<date>19630200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>D06Q 1/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>  81145</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>3703431</doc-number>
+<kind>A</kind>
+<name>Kemper</name>
+<date>19721100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B32B 15/08</classification-cpc-text>
+<classification-national><country>US</country><main-classification>428 81</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>3903714</doc-number>
+<kind>A</kind>
+<name>Horeni</name>
+<date>19750900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>D04B 23/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 66193</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D279849</doc-number>
+<kind>S</kind>
+<name>Kusiak</name>
+<date>19850700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23309</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D313319</doc-number>
+<kind>S</kind>
+<name>Legare</name>
+<date>19910100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 53</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D414612</doc-number>
+<kind>S</kind>
+<name>Haubert</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 53</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5987668</doc-number>
+<kind>A</kind>
+<name>Ackley</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A47C 27/22</classification-cpc-text>
+<classification-national><country>US</country><main-classification>428159</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6276070</doc-number>
+<kind>B1</kind>
+<name>Hawley</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B43L 7/033</classification-cpc-text>
+<classification-national><country>US</country><main-classification> 33  1 G</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D479653</doc-number>
+<kind>S</kind>
+<name>Rovini</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 43</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D488305</doc-number>
+<kind>S</kind>
+<name>Delaney</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 53</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D613949</doc-number>
+<kind>S</kind>
+<name>Mercer</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 5 37</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D620261</doc-number>
+<kind>S</kind>
+<name>Sordi</name>
+<date>20100700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>D06Q 1/06</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 5 58</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D643981</doc-number>
+<kind>S</kind>
+<name>Wildeman</name>
+<date>20110800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>E04F 13/18</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D32 40</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D651010</doc-number>
+<kind>S</kind>
+<name>Cohen</name>
+<date>20111200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6368</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D685195</doc-number>
+<kind>S</kind>
+<name>Maier</name>
+<date>20130700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B44C 3/12</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 5 58</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D824049</doc-number>
+<kind>S</kind>
+<name>Mussini</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D25138</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D840717</doc-number>
+<kind>S</kind>
+<name>Lu</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6582</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D849272</doc-number>
+<kind>S</kind>
+<name>Kaump</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D25138</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D863789</doc-number>
+<kind>S</kind>
+<name>Milenovich</name>
+<date>20191000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>D04B 23/10</classification-cpc-text>
+<classification-national><country>US</country><main-classification>D 5 58</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2005/0095407</doc-number>
+<kind>A1</kind>
+<name>Coburn, Jr.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>G02B 3/0056</classification-cpc-text>
+<classification-national><country>US</country><main-classification>4281951</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2008/0132865</doc-number>
+<kind>A1</kind>
+<name>Li</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>B44F 7/00</classification-cpc-text>
+<classification-national><country>US</country><main-classification>604378</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2016/0158075</doc-number>
+<kind>A1</kind>
+<name>Sheldon</name>
+<date>20160600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61G 17/04</classification-cpc-text>
+<classification-national><country>US</country><main-classification>604382</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>2016/0159007</doc-number>
+<kind>A1</kind>
+<name>Miller, IV</name>
+<date>20160600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>D21F 1/0027</classification-cpc-text>
+<classification-national><country>US</country><main-classification>162348</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>2018/0303675</doc-number>
+<kind>A1</kind>
+<name>Jones</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-cpc-text>A61L 15/28</classification-cpc-text>
+</us-citation>
+<us-citation>
+<nplcit num="00036">
+<othercit>Carol Gibbs Quilts, date unknown, found on Feb. 22, 2021 at https://www.carolyngibbsquilts.co.uk/antique-quilts/rob-peter-to-pay-paul/ (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00037">
+<othercit>Missouri Star Blog, date unknown, found on Feb. 22, 2021 at https://blog.missouriquiltco.com/free-quilt-coloring-page-downloads/ (Year: 2020).</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 5  1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5  3</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5  4</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 43</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 44</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 47</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 53</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 56</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 58</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 59</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 60</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 61</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 62</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 63</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 5 99</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6610</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6613</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6616</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D19  5</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D20 22</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D20 27</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D25138</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D32 57</main-classification>
+</classification-national>
+<classification-cpc-text>A61F 2013/00153</classification-cpc-text>
+<classification-cpc-text>A61F 2013/53916</classification-cpc-text>
+<classification-cpc-text>A61F 2013/0068</classification-cpc-text>
+<classification-cpc-text>A61F 2013/530562</classification-cpc-text>
+<classification-cpc-text>B44F 3/00</classification-cpc-text>
+<classification-cpc-text>B44F 7/00</classification-cpc-text>
+<classification-cpc-text>D03D 3/00</classification-cpc-text>
+<classification-cpc-text>D21F 1/0027</classification-cpc-text>
+<classification-cpc-text>D21H 27/02</classification-cpc-text>
+<classification-cpc-text>F41H 3/02</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Michael Kors, L.L.C.</orgname>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Wang</last-name>
+<first-name>San Chyi</first-name>
+<address>
+<city>Bayside</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Dentons US LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>MICHAEL KORS, LLC</orgname>
+<role>02</role>
+<address>
+<city>New York</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Acker</last-name>
+<first-name>Karen S</first-name>
+<department>2918</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="161.21mm" wi="284.73mm" file="USD0915081-20210406-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="181.44mm" wi="144.02mm" file="USD0915081-20210406-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="182.20mm" wi="144.86mm" file="USD0915081-20210406-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="113.45mm" wi="143.93mm" file="USD0915081-20210406-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="113.45mm" wi="143.93mm" file="USD0915081-20210406-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">A portion of the disclosure of this patent document contains material which is or may be subject to copyright protection. The copyright owner has no objection to the facsimile reproduction by anyone of the patent document or patent disclosure, as it appears in the Patent and Trademark Office patent file or records, but otherwise reserves all copyright rights whatsoever.</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 1</figref> is a plan view of quilted fabric embodying the design;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 3</figref> is a front edge view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 4</figref> is a back edge view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 5</figref> is a right side edge view thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 6</figref> is a left side edge view thereof.</p>
+<p id="p-0008" num="0008">The broken lines depict both portions of the quilted fabric and boundaries to the claim. The broken lines form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a quilted fabric, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

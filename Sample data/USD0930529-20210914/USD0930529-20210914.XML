@@ -1,0 +1,7763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0930529-20210914.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20210825" date-publ="20210914">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0930529</doc-number>
+<kind>S1</kind>
+<date>20210914</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29724883</doc-number>
+<date>20200220</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>15</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>13</edition>
+<main-classification>1216</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D12169</main-classification>
+</classification-national>
+<invention-title id="d2e53">Vehicle front fascia</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D287115</doc-number>
+<kind>S</kind>
+<name>Envall</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12190</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D423429</doc-number>
+<kind>S</kind>
+<name>Hickman</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D433980</doc-number>
+<kind>S</kind>
+<name>Conway</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12196</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D434358</doc-number>
+<kind>S</kind>
+<name>Conway</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12196</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D560149</doc-number>
+<kind>S</kind>
+<name>Leclercq</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12184</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D564423</doc-number>
+<kind>S</kind>
+<name>Spearman-Oxx</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D570742</doc-number>
+<kind>S</kind>
+<name>Takagi et al.</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D592105</doc-number>
+<kind>S</kind>
+<name>Dean et al.</name>
+<date>20090500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D597447</doc-number>
+<kind>S</kind>
+<name>Folden</name>
+<date>20090800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D600595</doc-number>
+<kind>S</kind>
+<name>Nakamura et al.</name>
+<date>20090900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D601925</doc-number>
+<kind>S</kind>
+<name>O'Donnell</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D603755</doc-number>
+<kind>S</kind>
+<name>Peters</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D604203</doc-number>
+<kind>S</kind>
+<name>O'Donnell</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D605082</doc-number>
+<kind>S</kind>
+<name>Munson</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D605083</doc-number>
+<kind>S</kind>
+<name>Manoogian, II et al.</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D605977</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D605978</doc-number>
+<kind>S</kind>
+<name>Wolff et al.</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D608249</doc-number>
+<kind>S</kind>
+<name>Peters</name>
+<date>20100100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>D608690</doc-number>
+<kind>S</kind>
+<name>Folden et al.</name>
+<date>20100100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>D608691</doc-number>
+<kind>S</kind>
+<name>Zak, Jr. et al.</name>
+<date>20100100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>D609608</doc-number>
+<kind>S</kind>
+<name>Boniface et al.</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>D611387</doc-number>
+<kind>S</kind>
+<name>Thompson et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>D611879</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>D612297</doc-number>
+<kind>S</kind>
+<name>Peters et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>D613645</doc-number>
+<kind>S</kind>
+<name>Song et al.</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>D615458</doc-number>
+<kind>S</kind>
+<name>Thompson et al.</name>
+<date>20100500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>D618595</doc-number>
+<kind>S</kind>
+<name>Ware et al.</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D621752</doc-number>
+<kind>S</kind>
+<name>Angelo</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D623090</doc-number>
+<kind>S</kind>
+<name>Cox et al.</name>
+<date>20100900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>D627262</doc-number>
+<kind>S</kind>
+<name>Ikeda et al.</name>
+<date>20101100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>D635488</doc-number>
+<kind>S</kind>
+<name>Phipps</name>
+<date>20110400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>D637122</doc-number>
+<kind>S</kind>
+<name>Lamm</name>
+<date>20110500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>D644147</doc-number>
+<kind>S</kind>
+<name>Suh et al.</name>
+<date>20110800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>D644567</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20110900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>D644577</doc-number>
+<kind>S</kind>
+<name>Messale</name>
+<date>20110900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>D657718</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20120400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>D659052</doc-number>
+<kind>S</kind>
+<name>Ware et al.</name>
+<date>20120500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>D659053</doc-number>
+<kind>S</kind>
+<name>Ware et al.</name>
+<date>20120500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>D668182</doc-number>
+<kind>S</kind>
+<name>Franco et al.</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>D668183</doc-number>
+<kind>S</kind>
+<name>Smart</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>D678820</doc-number>
+<kind>S</kind>
+<name>Son et al.</name>
+<date>20130300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>D678821</doc-number>
+<kind>S</kind>
+<name>Ikeda et al.</name>
+<date>20130300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>D680909</doc-number>
+<kind>S</kind>
+<name>Munson et al.</name>
+<date>20130400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>D680910</doc-number>
+<kind>S</kind>
+<name>David</name>
+<date>20130400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>D684899</doc-number>
+<kind>S</kind>
+<name>Baker</name>
+<date>20130600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>D686536</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20130700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>D692798</doc-number>
+<kind>S</kind>
+<name>Thurber</name>
+<date>20131100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>D692799</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20131100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>D696157</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20131200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>D699629</doc-number>
+<kind>S</kind>
+<name>Ikeda et al.</name>
+<date>20140200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>D700871</doc-number>
+<kind>S</kind>
+<name>O'Donnell et al.</name>
+<date>20140300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>D703103</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20140400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>D704103</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>D705132</doc-number>
+<kind>S</kind>
+<name>Ware et al.</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>D705699</doc-number>
+<kind>S</kind>
+<name>Ware et al.</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>D710767</doc-number>
+<kind>S</kind>
+<name>Heilaneh</name>
+<date>20140800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>D713298</doc-number>
+<kind>S</kind>
+<name>Dyson</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>D713764</doc-number>
+<kind>S</kind>
+<name>Ferlazzo et al.</name>
+<date>20140900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>D716696</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>D716706</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>D716709</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>D717696</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>D718189</doc-number>
+<kind>S</kind>
+<name>Krieg et al.</name>
+<date>20141100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>D718683</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20141200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>D722282</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20150200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>D722533</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20150200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>D722534</doc-number>
+<kind>S</kind>
+<name>Munson et al.</name>
+<date>20150200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>D724510</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20150300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>D725001</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20150300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>D726591</doc-number>
+<kind>S</kind>
+<name>Jacob</name>
+<date>20150400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>D730776</doc-number>
+<kind>S</kind>
+<name>Smart</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>D730783</doc-number>
+<kind>S</kind>
+<name>Henriques et al.</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>D732427</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>D732429</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>D732430</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00076">
+<document-id>
+<country>US</country>
+<doc-number>D732431</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00077">
+<document-id>
+<country>US</country>
+<doc-number>D732432</doc-number>
+<kind>S</kind>
+<name>Aengenheyster</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00078">
+<document-id>
+<country>US</country>
+<doc-number>D732433</doc-number>
+<kind>S</kind>
+<name>Aengenheyster</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00079">
+<document-id>
+<country>US</country>
+<doc-number>D732435</doc-number>
+<kind>S</kind>
+<name>Mackay</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00080">
+<document-id>
+<country>US</country>
+<doc-number>D733002</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20150600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00081">
+<document-id>
+<country>US</country>
+<doc-number>D735611</doc-number>
+<kind>S</kind>
+<name>Aengenheyster</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00082">
+<document-id>
+<country>US</country>
+<doc-number>D735627</doc-number>
+<kind>S</kind>
+<name>Smith</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00083">
+<document-id>
+<country>US</country>
+<doc-number>D736451</doc-number>
+<kind>S</kind>
+<name>Smith</name>
+<date>20150800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00084">
+<document-id>
+<country>US</country>
+<doc-number>D739306</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20150900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00085">
+<document-id>
+<country>US</country>
+<doc-number>D739317</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20150900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00086">
+<document-id>
+<country>US</country>
+<doc-number>D741223</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20151000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00087">
+<document-id>
+<country>US</country>
+<doc-number>D743309</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00088">
+<document-id>
+<country>US</country>
+<doc-number>D743313</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00089">
+<document-id>
+<country>US</country>
+<doc-number>D743314</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00090">
+<document-id>
+<country>US</country>
+<doc-number>D743857</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00091">
+<document-id>
+<country>US</country>
+<doc-number>D744158</doc-number>
+<kind>S</kind>
+<name>Willett et al.</name>
+<date>20151100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00092">
+<document-id>
+<country>US</country>
+<doc-number>D745086</doc-number>
+<kind>S</kind>
+<name>Finos et al.</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00093">
+<document-id>
+<country>US</country>
+<doc-number>D745719</doc-number>
+<kind>S</kind>
+<name>Boniface et al.</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00094">
+<document-id>
+<country>US</country>
+<doc-number>D745725</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00095">
+<document-id>
+<country>US</country>
+<doc-number>D745726</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00096">
+<document-id>
+<country>US</country>
+<doc-number>D745837</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20151200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00097">
+<document-id>
+<country>US</country>
+<doc-number>D746726</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00098">
+<document-id>
+<country>US</country>
+<doc-number>D746727</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00099">
+<document-id>
+<country>US</country>
+<doc-number>D746728</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00100">
+<document-id>
+<country>US</country>
+<doc-number>D746729</doc-number>
+<kind>S</kind>
+<name>Boniface et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00101">
+<document-id>
+<country>US</country>
+<doc-number>D746730</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00102">
+<document-id>
+<country>US</country>
+<doc-number>D747514</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00103">
+<document-id>
+<country>US</country>
+<doc-number>D747515</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00104">
+<document-id>
+<country>US</country>
+<doc-number>D747819</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20160100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00105">
+<document-id>
+<country>US</country>
+<doc-number>D749021</doc-number>
+<kind>S</kind>
+<name>Boniface et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00106">
+<document-id>
+<country>US</country>
+<doc-number>D749026</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00107">
+<document-id>
+<country>US</country>
+<doc-number>D749027</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00108">
+<document-id>
+<country>US</country>
+<doc-number>D749246</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00109">
+<document-id>
+<country>US</country>
+<doc-number>D749249</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00110">
+<document-id>
+<country>US</country>
+<doc-number>D749250</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00111">
+<document-id>
+<country>US</country>
+<doc-number>D749985</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00112">
+<document-id>
+<country>US</country>
+<doc-number>D749997</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00113">
+<document-id>
+<country>US</country>
+<doc-number>D750001</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20160200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00114">
+<document-id>
+<country>US</country>
+<doc-number>D753032</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00115">
+<document-id>
+<country>US</country>
+<doc-number>D753033</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00116">
+<document-id>
+<country>US</country>
+<doc-number>D753034</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00117">
+<document-id>
+<country>US</country>
+<doc-number>D753035</doc-number>
+<kind>S</kind>
+<name>Boniface et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00118">
+<document-id>
+<country>US</country>
+<doc-number>D753559</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00119">
+<document-id>
+<country>US</country>
+<doc-number>D753560</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00120">
+<document-id>
+<country>US</country>
+<doc-number>D753567</doc-number>
+<kind>S</kind>
+<name>Boniface et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00121">
+<document-id>
+<country>US</country>
+<doc-number>D754571</doc-number>
+<kind>S</kind>
+<name>Boniface et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00122">
+<document-id>
+<country>US</country>
+<doc-number>D754572</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00123">
+<document-id>
+<country>US</country>
+<doc-number>D755088</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00124">
+<document-id>
+<country>US</country>
+<doc-number>D756869</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00125">
+<document-id>
+<country>US</country>
+<doc-number>D758271</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00126">
+<document-id>
+<country>US</country>
+<doc-number>D764975</doc-number>
+<kind>S</kind>
+<name>Aengenheyster</name>
+<date>20160800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00127">
+<document-id>
+<country>US</country>
+<doc-number>D764976</doc-number>
+<kind>S</kind>
+<name>Aengenheyster</name>
+<date>20160800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00128">
+<document-id>
+<country>US</country>
+<doc-number>D767449</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00129">
+<document-id>
+<country>US</country>
+<doc-number>D767450</doc-number>
+<kind>S</kind>
+<name>Lee et al.</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00130">
+<document-id>
+<country>US</country>
+<doc-number>D767451</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00131">
+<document-id>
+<country>US</country>
+<doc-number>D767454</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00132">
+<document-id>
+<country>US</country>
+<doc-number>D767458</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00133">
+<document-id>
+<country>US</country>
+<doc-number>D767459</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00134">
+<document-id>
+<country>US</country>
+<doc-number>D767460</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00135">
+<document-id>
+<country>US</country>
+<doc-number>D767461</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20160900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00136">
+<document-id>
+<country>US</country>
+<doc-number>D771528</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00137">
+<document-id>
+<country>US</country>
+<doc-number>D771529</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00138">
+<document-id>
+<country>US</country>
+<doc-number>D771532</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00139">
+<document-id>
+<country>US</country>
+<doc-number>D771533</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00140">
+<document-id>
+<country>US</country>
+<doc-number>D772766</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00141">
+<document-id>
+<country>US</country>
+<doc-number>D772767</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00142">
+<document-id>
+<country>US</country>
+<doc-number>D773084</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00143">
+<document-id>
+<country>US</country>
+<doc-number>D773086</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20161100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00144">
+<document-id>
+<country>US</country>
+<doc-number>D774226</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00145">
+<document-id>
+<country>US</country>
+<doc-number>D775003</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00146">
+<document-id>
+<country>US</country>
+<doc-number>D775007</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00147">
+<document-id>
+<country>US</country>
+<doc-number>D775010</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00148">
+<document-id>
+<country>US</country>
+<doc-number>D775049</doc-number>
+<kind>S</kind>
+<name>Scheer et al.</name>
+<date>20161200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00149">
+<document-id>
+<country>US</country>
+<doc-number>D775549</doc-number>
+<kind>S</kind>
+<name>Karras</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00150">
+<document-id>
+<country>US</country>
+<doc-number>D775554</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00151">
+<document-id>
+<country>US</country>
+<doc-number>D776020</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00152">
+<document-id>
+<country>US</country>
+<doc-number>D776581</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00153">
+<document-id>
+<country>US</country>
+<doc-number>D776583</doc-number>
+<kind>S</kind>
+<name>Scheer et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00154">
+<document-id>
+<country>US</country>
+<doc-number>D776841</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00155">
+<document-id>
+<country>US</country>
+<doc-number>D776843</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00156">
+<document-id>
+<country>US</country>
+<doc-number>D776846</doc-number>
+<kind>S</kind>
+<name>Willett et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00157">
+<document-id>
+<country>US</country>
+<doc-number>D777359</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00158">
+<document-id>
+<country>US</country>
+<doc-number>D777360</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00159">
+<document-id>
+<country>US</country>
+<doc-number>D777361</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00160">
+<document-id>
+<country>US</country>
+<doc-number>D777604</doc-number>
+<kind>S</kind>
+<name>McNerney</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00161">
+<document-id>
+<country>US</country>
+<doc-number>D777605</doc-number>
+<kind>S</kind>
+<name>Ferlazzo et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00162">
+<document-id>
+<country>US</country>
+<doc-number>D777620</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00163">
+<document-id>
+<country>US</country>
+<doc-number>D777621</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00164">
+<document-id>
+<country>US</country>
+<doc-number>D777622</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00165">
+<document-id>
+<country>US</country>
+<doc-number>D777628</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00166">
+<document-id>
+<country>US</country>
+<doc-number>D777955</doc-number>
+<kind>S</kind>
+<name>Willett et al.</name>
+<date>20170100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00167">
+<document-id>
+<country>US</country>
+<doc-number>D778212</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00168">
+<document-id>
+<country>US</country>
+<doc-number>D778215</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00169">
+<document-id>
+<country>US</country>
+<doc-number>D780064</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00170">
+<document-id>
+<country>US</country>
+<doc-number>D780067</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00171">
+<document-id>
+<country>US</country>
+<doc-number>D780068</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00172">
+<document-id>
+<country>US</country>
+<doc-number>D780077</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00173">
+<document-id>
+<country>US</country>
+<doc-number>D780081</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00174">
+<document-id>
+<country>US</country>
+<doc-number>D780084</doc-number>
+<kind>S</kind>
+<name>Scheer et al.</name>
+<date>20170200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00175">
+<document-id>
+<country>US</country>
+<doc-number>D780631</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00176">
+<document-id>
+<country>US</country>
+<doc-number>D780644</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00177">
+<document-id>
+<country>US</country>
+<doc-number>D781184</doc-number>
+<kind>S</kind>
+<name>Thole et al.</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00178">
+<document-id>
+<country>US</country>
+<doc-number>D781192</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00179">
+<document-id>
+<country>US</country>
+<doc-number>D782379</doc-number>
+<kind>S</kind>
+<name>Wassell</name>
+<date>20170300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00180">
+<document-id>
+<country>US</country>
+<doc-number>D783482</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00181">
+<document-id>
+<country>US</country>
+<doc-number>D784213</doc-number>
+<kind>S</kind>
+<name>Karras</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00182">
+<document-id>
+<country>US</country>
+<doc-number>D784223</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00183">
+<document-id>
+<country>US</country>
+<doc-number>D784226</doc-number>
+<kind>S</kind>
+<name>Cheng</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00184">
+<document-id>
+<country>US</country>
+<doc-number>D784579</doc-number>
+<kind>S</kind>
+<name>Cheng et al.</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00185">
+<document-id>
+<country>US</country>
+<doc-number>D784877</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00186">
+<document-id>
+<country>US</country>
+<doc-number>D784886</doc-number>
+<kind>S</kind>
+<name>Smith</name>
+<date>20170400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12196</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00187">
+<document-id>
+<country>US</country>
+<doc-number>D785521</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00188">
+<document-id>
+<country>US</country>
+<doc-number>D786149</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00189">
+<document-id>
+<country>US</country>
+<doc-number>D786743</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00190">
+<document-id>
+<country>US</country>
+<doc-number>D786750</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00191">
+<document-id>
+<country>US</country>
+<doc-number>D787446</doc-number>
+<kind>S</kind>
+<name>Cockerill</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00192">
+<document-id>
+<country>US</country>
+<doc-number>D787984</doc-number>
+<kind>S</kind>
+<name>Fang</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00193">
+<document-id>
+<country>US</country>
+<doc-number>D787988</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00194">
+<document-id>
+<country>US</country>
+<doc-number>D787989</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00195">
+<document-id>
+<country>US</country>
+<doc-number>D787990</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00196">
+<document-id>
+<country>US</country>
+<doc-number>D787992</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00197">
+<document-id>
+<country>US</country>
+<doc-number>D787993</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00198">
+<document-id>
+<country>US</country>
+<doc-number>D788001</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00199">
+<document-id>
+<country>US</country>
+<doc-number>D788641</doc-number>
+<kind>S</kind>
+<name>Arnold</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00200">
+<document-id>
+<country>US</country>
+<doc-number>D788644</doc-number>
+<kind>S</kind>
+<name>Mueller</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00201">
+<document-id>
+<country>US</country>
+<doc-number>D788645</doc-number>
+<kind>S</kind>
+<name>Mueller</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00202">
+<document-id>
+<country>US</country>
+<doc-number>D789250</doc-number>
+<kind>S</kind>
+<name>Arnold</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00203">
+<document-id>
+<country>US</country>
+<doc-number>D789260</doc-number>
+<kind>S</kind>
+<name>Smith</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00204">
+<document-id>
+<country>US</country>
+<doc-number>D789575</doc-number>
+<kind>S</kind>
+<name>Willett</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00205">
+<document-id>
+<country>US</country>
+<doc-number>D789841</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00206">
+<document-id>
+<country>US</country>
+<doc-number>D789849</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00207">
+<document-id>
+<country>US</country>
+<doc-number>D791018</doc-number>
+<kind>S</kind>
+<name>Mylenek</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00208">
+<document-id>
+<country>US</country>
+<doc-number>D791644</doc-number>
+<kind>S</kind>
+<name>Fang</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00209">
+<document-id>
+<country>US</country>
+<doc-number>D792290</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00210">
+<document-id>
+<country>US</country>
+<doc-number>D792293</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00211">
+<document-id>
+<country>US</country>
+<doc-number>D792294</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00212">
+<document-id>
+<country>US</country>
+<doc-number>D792295</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00213">
+<document-id>
+<country>US</country>
+<doc-number>D792815</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00214">
+<document-id>
+<country>US</country>
+<doc-number>D792816</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00215">
+<document-id>
+<country>US</country>
+<doc-number>D793290</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00216">
+<document-id>
+<country>US</country>
+<doc-number>D793292</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00217">
+<document-id>
+<country>US</country>
+<doc-number>D793293</doc-number>
+<kind>S</kind>
+<name>Lee et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00218">
+<document-id>
+<country>US</country>
+<doc-number>D793294</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00219">
+<document-id>
+<country>US</country>
+<doc-number>D793295</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00220">
+<document-id>
+<country>US</country>
+<doc-number>D793296</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00221">
+<document-id>
+<country>US</country>
+<doc-number>D793297</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00222">
+<document-id>
+<country>US</country>
+<doc-number>D793299</doc-number>
+<kind>S</kind>
+<name>Kreig et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00223">
+<document-id>
+<country>US</country>
+<doc-number>D793300</doc-number>
+<kind>S</kind>
+<name>Kreig et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00224">
+<document-id>
+<country>US</country>
+<doc-number>D793301</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00225">
+<document-id>
+<country>US</country>
+<doc-number>D793302</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00226">
+<document-id>
+<country>US</country>
+<doc-number>D793311</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00227">
+<document-id>
+<country>US</country>
+<doc-number>D793590</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00228">
+<document-id>
+<country>US</country>
+<doc-number>D793591</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00229">
+<document-id>
+<country>US</country>
+<doc-number>D793917</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00230">
+<document-id>
+<country>US</country>
+<doc-number>D793918</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00231">
+<document-id>
+<country>US</country>
+<doc-number>D794229</doc-number>
+<kind>S</kind>
+<name>Barry</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00232">
+<document-id>
+<country>US</country>
+<doc-number>D794230</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00233">
+<document-id>
+<country>US</country>
+<doc-number>D795747</doc-number>
+<kind>S</kind>
+<name>Bailie</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00234">
+<document-id>
+<country>US</country>
+<doc-number>D795757</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00235">
+<document-id>
+<country>US</country>
+<doc-number>D795758</doc-number>
+<kind>S</kind>
+<name>Karras</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00236">
+<document-id>
+<country>US</country>
+<doc-number>D795759</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00237">
+<document-id>
+<country>US</country>
+<doc-number>D795760</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00238">
+<document-id>
+<country>US</country>
+<doc-number>D795762</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00239">
+<document-id>
+<country>US</country>
+<doc-number>D795763</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00240">
+<document-id>
+<country>US</country>
+<doc-number>D796088</doc-number>
+<kind>S</kind>
+<name>McCabe et al.</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00241">
+<document-id>
+<country>US</country>
+<doc-number>D796093</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20170800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00242">
+<document-id>
+<country>US</country>
+<doc-number>D796390</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00243">
+<document-id>
+<country>US</country>
+<doc-number>D797537</doc-number>
+<kind>S</kind>
+<name>Cooper et al.</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00244">
+<document-id>
+<country>US</country>
+<doc-number>D797603</doc-number>
+<kind>S</kind>
+<name>Noone et al.</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00245">
+<document-id>
+<country>US</country>
+<doc-number>D797614</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00246">
+<document-id>
+<country>US</country>
+<doc-number>D797616</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00247">
+<document-id>
+<country>US</country>
+<doc-number>D797624</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00248">
+<document-id>
+<country>US</country>
+<doc-number>D797625</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00249">
+<document-id>
+<country>US</country>
+<doc-number>D797631</doc-number>
+<kind>S</kind>
+<name>Pevovar et al.</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00250">
+<document-id>
+<country>US</country>
+<doc-number>D797632</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00251">
+<document-id>
+<country>US</country>
+<doc-number>D797967</doc-number>
+<kind>S</kind>
+<name>Barry</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00252">
+<document-id>
+<country>US</country>
+<doc-number>D797970</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00253">
+<document-id>
+<country>US</country>
+<doc-number>D797971</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00254">
+<document-id>
+<country>US</country>
+<doc-number>D797972</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00255">
+<document-id>
+<country>US</country>
+<doc-number>D798204</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20170900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00256">
+<document-id>
+<country>US</country>
+<doc-number>D799384</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00257">
+<document-id>
+<country>US</country>
+<doc-number>D799385</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00258">
+<document-id>
+<country>US</country>
+<doc-number>D799386</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00259">
+<document-id>
+<country>US</country>
+<doc-number>D799728</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00260">
+<document-id>
+<country>US</country>
+<doc-number>D801236</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00261">
+<document-id>
+<country>US</country>
+<doc-number>D801577</doc-number>
+<kind>S</kind>
+<name>Ruiz</name>
+<date>20171000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00262">
+<document-id>
+<country>US</country>
+<doc-number>D801882</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00263">
+<document-id>
+<country>US</country>
+<doc-number>D802205</doc-number>
+<kind>S</kind>
+<name>Ruiz</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00264">
+<document-id>
+<country>US</country>
+<doc-number>D802478</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00265">
+<document-id>
+<country>US</country>
+<doc-number>D802491</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00266">
+<document-id>
+<country>US</country>
+<doc-number>D802496</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00267">
+<document-id>
+<country>US</country>
+<doc-number>D802502</doc-number>
+<kind>S</kind>
+<name>McMahan</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00268">
+<document-id>
+<country>US</country>
+<doc-number>D803727</doc-number>
+<kind>S</kind>
+<name>Noone et al.</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00269">
+<document-id>
+<country>US</country>
+<doc-number>D803731</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20171100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00270">
+<document-id>
+<country>US</country>
+<doc-number>D804370</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00271">
+<document-id>
+<country>US</country>
+<doc-number>D804371</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00272">
+<document-id>
+<country>US</country>
+<doc-number>D804372</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00273">
+<document-id>
+<country>US</country>
+<doc-number>D804378</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00274">
+<document-id>
+<country>US</country>
+<doc-number>D804379</doc-number>
+<kind>S</kind>
+<name>McMahan</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00275">
+<document-id>
+<country>US</country>
+<doc-number>D805006</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00276">
+<document-id>
+<country>US</country>
+<doc-number>D805013</doc-number>
+<kind>S</kind>
+<name>Whitla</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00277">
+<document-id>
+<country>US</country>
+<doc-number>D805014</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00278">
+<document-id>
+<country>US</country>
+<doc-number>D805441</doc-number>
+<kind>S</kind>
+<name>Karras</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00279">
+<document-id>
+<country>US</country>
+<doc-number>D805964</doc-number>
+<kind>S</kind>
+<name>Whitla</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00280">
+<document-id>
+<country>US</country>
+<doc-number>D805965</doc-number>
+<kind>S</kind>
+<name>Davis</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00281">
+<document-id>
+<country>US</country>
+<doc-number>D805966</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00282">
+<document-id>
+<country>US</country>
+<doc-number>D805985</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20171200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00283">
+<document-id>
+<country>US</country>
+<doc-number>D807232</doc-number>
+<kind>S</kind>
+<name>Bailie</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00284">
+<document-id>
+<country>US</country>
+<doc-number>D807239</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00285">
+<document-id>
+<country>US</country>
+<doc-number>D807240</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00286">
+<document-id>
+<country>US</country>
+<doc-number>D807241</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00287">
+<document-id>
+<country>US</country>
+<doc-number>D809442</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00288">
+<document-id>
+<country>US</country>
+<doc-number>D811269</doc-number>
+<kind>S</kind>
+<name>Thompson et al.</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00289">
+<document-id>
+<country>US</country>
+<doc-number>D811287</doc-number>
+<kind>S</kind>
+<name>Bucher</name>
+<date>20180200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00290">
+<document-id>
+<country>US</country>
+<doc-number>D811942</doc-number>
+<kind>S</kind>
+<name>Jacob</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00291">
+<document-id>
+<country>US</country>
+<doc-number>D811957</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00292">
+<document-id>
+<country>US</country>
+<doc-number>D811958</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00293">
+<document-id>
+<country>US</country>
+<doc-number>D811959</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00294">
+<document-id>
+<country>US</country>
+<doc-number>D811960</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00295">
+<document-id>
+<country>US</country>
+<doc-number>D811961</doc-number>
+<kind>S</kind>
+<name>Sullivan</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00296">
+<document-id>
+<country>US</country>
+<doc-number>D811962</doc-number>
+<kind>S</kind>
+<name>Sullivan</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00297">
+<document-id>
+<country>US</country>
+<doc-number>D811963</doc-number>
+<kind>S</kind>
+<name>Sullivan</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00298">
+<document-id>
+<country>US</country>
+<doc-number>D811964</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00299">
+<document-id>
+<country>US</country>
+<doc-number>D811965</doc-number>
+<kind>S</kind>
+<name>Moffett et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00300">
+<document-id>
+<country>US</country>
+<doc-number>D812525</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00301">
+<document-id>
+<country>US</country>
+<doc-number>D812526</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00302">
+<document-id>
+<country>US</country>
+<doc-number>D812527</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00303">
+<document-id>
+<country>US</country>
+<doc-number>D812528</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00304">
+<document-id>
+<country>US</country>
+<doc-number>D812530</doc-number>
+<kind>S</kind>
+<name>Bucher</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00305">
+<document-id>
+<country>US</country>
+<doc-number>D813098</doc-number>
+<kind>S</kind>
+<name>Thompson et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00306">
+<document-id>
+<country>US</country>
+<doc-number>D813109</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00307">
+<document-id>
+<country>US</country>
+<doc-number>D813110</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00308">
+<document-id>
+<country>US</country>
+<doc-number>D813111</doc-number>
+<kind>S</kind>
+<name>Sullivan</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00309">
+<document-id>
+<country>US</country>
+<doc-number>D813116</doc-number>
+<kind>S</kind>
+<name>Park</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00310">
+<document-id>
+<country>US</country>
+<doc-number>D813117</doc-number>
+<kind>S</kind>
+<name>Sullivan</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00311">
+<document-id>
+<country>US</country>
+<doc-number>D813121</doc-number>
+<kind>S</kind>
+<name>Swanseger</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00312">
+<document-id>
+<country>US</country>
+<doc-number>D813730</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00313">
+<document-id>
+<country>US</country>
+<doc-number>D813731</doc-number>
+<kind>S</kind>
+<name>McMahan</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00314">
+<document-id>
+<country>US</country>
+<doc-number>D813732</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00315">
+<document-id>
+<country>US</country>
+<doc-number>D813733</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00316">
+<document-id>
+<country>US</country>
+<doc-number>D813734</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00317">
+<document-id>
+<country>US</country>
+<doc-number>D813740</doc-number>
+<kind>S</kind>
+<name>Park</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00318">
+<document-id>
+<country>US</country>
+<doc-number>D813741</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00319">
+<document-id>
+<country>US</country>
+<doc-number>D813742</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00320">
+<document-id>
+<country>US</country>
+<doc-number>D813743</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00321">
+<document-id>
+<country>US</country>
+<doc-number>D813744</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00322">
+<document-id>
+<country>US</country>
+<doc-number>D813748</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00323">
+<document-id>
+<country>US</country>
+<doc-number>D813753</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00324">
+<document-id>
+<country>US</country>
+<doc-number>D813754</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00325">
+<document-id>
+<country>US</country>
+<doc-number>D813755</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00326">
+<document-id>
+<country>US</country>
+<doc-number>D813756</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00327">
+<document-id>
+<country>US</country>
+<doc-number>D813757</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00328">
+<document-id>
+<country>US</country>
+<doc-number>D813758</doc-number>
+<kind>S</kind>
+<name>Gonzales</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00329">
+<document-id>
+<country>US</country>
+<doc-number>D813759</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00330">
+<document-id>
+<country>US</country>
+<doc-number>D814369</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00331">
+<document-id>
+<country>US</country>
+<doc-number>D814982</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00332">
+<document-id>
+<country>US</country>
+<doc-number>D814983</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00333">
+<document-id>
+<country>US</country>
+<doc-number>D815570</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00334">
+<document-id>
+<country>US</country>
+<doc-number>D815572</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00335">
+<document-id>
+<country>US</country>
+<doc-number>D815573</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00336">
+<document-id>
+<country>US</country>
+<doc-number>D815574</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00337">
+<document-id>
+<country>US</country>
+<doc-number>D815985</doc-number>
+<kind>S</kind>
+<name>Mueller</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00338">
+<document-id>
+<country>US</country>
+<doc-number>D815993</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00339">
+<document-id>
+<country>US</country>
+<doc-number>D815994</doc-number>
+<kind>S</kind>
+<name>Nakamura</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00340">
+<document-id>
+<country>US</country>
+<doc-number>D815997</doc-number>
+<kind>S</kind>
+<name>Ishii</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00341">
+<document-id>
+<country>US</country>
+<doc-number>D816003</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00342">
+<document-id>
+<country>US</country>
+<doc-number>D816558</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00343">
+<document-id>
+<country>US</country>
+<doc-number>D816559</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00344">
+<document-id>
+<country>US</country>
+<doc-number>D816561</doc-number>
+<kind>S</kind>
+<name>McMahan</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00345">
+<document-id>
+<country>US</country>
+<doc-number>D816562</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00346">
+<document-id>
+<country>US</country>
+<doc-number>D816563</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00347">
+<document-id>
+<country>US</country>
+<doc-number>D816564</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00348">
+<document-id>
+<country>US</country>
+<doc-number>D816565</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00349">
+<document-id>
+<country>US</country>
+<doc-number>D816566</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00350">
+<document-id>
+<country>US</country>
+<doc-number>D817836</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00351">
+<document-id>
+<country>US</country>
+<doc-number>D818156</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00352">
+<document-id>
+<country>US</country>
+<doc-number>D818157</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00353">
+<document-id>
+<country>US</country>
+<doc-number>D818158</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00354">
+<document-id>
+<country>US</country>
+<doc-number>D818159</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00355">
+<document-id>
+<country>US</country>
+<doc-number>D818160</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00356">
+<document-id>
+<country>US</country>
+<doc-number>D818401</doc-number>
+<kind>S</kind>
+<name>Bridan</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00357">
+<document-id>
+<country>US</country>
+<doc-number>D818406</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00358">
+<document-id>
+<country>US</country>
+<doc-number>D818876</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00359">
+<document-id>
+<country>US</country>
+<doc-number>D818877</doc-number>
+<kind>S</kind>
+<name>Nakamura et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00360">
+<document-id>
+<country>US</country>
+<doc-number>D818878</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00361">
+<document-id>
+<country>US</country>
+<doc-number>D818892</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00362">
+<document-id>
+<country>US</country>
+<doc-number>D818893</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00363">
+<document-id>
+<country>US</country>
+<doc-number>D818903</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00364">
+<document-id>
+<country>US</country>
+<doc-number>D818906</doc-number>
+<kind>S</kind>
+<name>McMahan</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00365">
+<document-id>
+<country>US</country>
+<doc-number>D818907</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00366">
+<document-id>
+<country>US</country>
+<doc-number>D818915</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00367">
+<document-id>
+<country>US</country>
+<doc-number>D818922</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00368">
+<document-id>
+<country>US</country>
+<doc-number>D819505</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00369">
+<document-id>
+<country>US</country>
+<doc-number>D819519</doc-number>
+<kind>S</kind>
+<name>Whitla</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00370">
+<document-id>
+<country>US</country>
+<doc-number>D821617</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00371">
+<document-id>
+<country>US</country>
+<doc-number>D822550</doc-number>
+<kind>S</kind>
+<name>Wassell et al.</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00372">
+<document-id>
+<country>US</country>
+<doc-number>D822551</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00373">
+<document-id>
+<country>US</country>
+<doc-number>D823188</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00374">
+<document-id>
+<country>US</country>
+<doc-number>D823738</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00375">
+<document-id>
+<country>US</country>
+<doc-number>D823741</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00376">
+<document-id>
+<country>US</country>
+<doc-number>D823762</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00377">
+<document-id>
+<country>US</country>
+<doc-number>D823763</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20180700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00378">
+<document-id>
+<country>US</country>
+<doc-number>D824811</doc-number>
+<kind>S</kind>
+<name>Mainville</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00379">
+<document-id>
+<country>US</country>
+<doc-number>D824812</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00380">
+<document-id>
+<country>US</country>
+<doc-number>D824824</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00381">
+<document-id>
+<country>US</country>
+<doc-number>D824825</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00382">
+<document-id>
+<country>US</country>
+<doc-number>D825083</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00383">
+<document-id>
+<country>US</country>
+<doc-number>D825388</doc-number>
+<kind>S</kind>
+<name>Karras et al.</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00384">
+<document-id>
+<country>US</country>
+<doc-number>D825403</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00385">
+<document-id>
+<country>US</country>
+<doc-number>D826114</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00386">
+<document-id>
+<country>US</country>
+<doc-number>D826435</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00387">
+<document-id>
+<country>US</country>
+<doc-number>D826803</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20180800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00388">
+<document-id>
+<country>US</country>
+<doc-number>D827506</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00389">
+<document-id>
+<country>US</country>
+<doc-number>D827508</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00390">
+<document-id>
+<country>US</country>
+<doc-number>D827510</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00391">
+<document-id>
+<country>US</country>
+<doc-number>D827527</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00392">
+<document-id>
+<country>US</country>
+<doc-number>D828246</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00393">
+<document-id>
+<country>US</country>
+<doc-number>D828261</doc-number>
+<kind>S</kind>
+<name>Moffett et al.</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00394">
+<document-id>
+<country>US</country>
+<doc-number>D828935</doc-number>
+<kind>S</kind>
+<name>Hochmuth</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00395">
+<document-id>
+<country>US</country>
+<doc-number>D829143</doc-number>
+<kind>S</kind>
+<name>McMahan</name>
+<date>20180900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12196</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00396">
+<document-id>
+<country>US</country>
+<doc-number>D829622</doc-number>
+<kind>S</kind>
+<name>Jacob</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00397">
+<document-id>
+<country>US</country>
+<doc-number>D830241</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00398">
+<document-id>
+<country>US</country>
+<doc-number>D830242</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00399">
+<document-id>
+<country>US</country>
+<doc-number>D830252</doc-number>
+<kind>S</kind>
+<name>Swanseger</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00400">
+<document-id>
+<country>US</country>
+<doc-number>D830258</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00401">
+<document-id>
+<country>US</country>
+<doc-number>D830261</doc-number>
+<kind>S</kind>
+<name>Jacob</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00402">
+<document-id>
+<country>US</country>
+<doc-number>D830589</doc-number>
+<kind>S</kind>
+<name>Henriques</name>
+<date>20181000</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00403">
+<document-id>
+<country>US</country>
+<doc-number>D832752</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00404">
+<document-id>
+<country>US</country>
+<doc-number>D833342</doc-number>
+<kind>S</kind>
+<name>Anderson</name>
+<date>20181100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00405">
+<document-id>
+<country>US</country>
+<doc-number>D835003</doc-number>
+<kind>S</kind>
+<name>Thompson et al.</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00406">
+<document-id>
+<country>US</country>
+<doc-number>D835012</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20181200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00407">
+<document-id>
+<country>US</country>
+<doc-number>D837105</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00408">
+<document-id>
+<country>US</country>
+<doc-number>D837109</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00409">
+<document-id>
+<country>US</country>
+<doc-number>D837424</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00410">
+<document-id>
+<country>US</country>
+<doc-number>D838015</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00411">
+<document-id>
+<country>US</country>
+<doc-number>D838016</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00412">
+<document-id>
+<country>US</country>
+<doc-number>D838390</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00413">
+<document-id>
+<country>US</country>
+<doc-number>D838391</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00414">
+<document-id>
+<country>US</country>
+<doc-number>D838635</doc-number>
+<kind>S</kind>
+<name>Anderson</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00415">
+<document-id>
+<country>US</country>
+<doc-number>D839157</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00416">
+<document-id>
+<country>US</country>
+<doc-number>D839163</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00417">
+<document-id>
+<country>US</country>
+<doc-number>D839164</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00418">
+<document-id>
+<country>US</country>
+<doc-number>D839460</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20190100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00419">
+<document-id>
+<country>US</country>
+<doc-number>D840068</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00420">
+<document-id>
+<country>US</country>
+<doc-number>D840069</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00421">
+<document-id>
+<country>US</country>
+<doc-number>D840285</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00422">
+<document-id>
+<country>US</country>
+<doc-number>D840286</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00423">
+<document-id>
+<country>US</country>
+<doc-number>D840293</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00424">
+<document-id>
+<country>US</country>
+<doc-number>D840302</doc-number>
+<kind>S</kind>
+<name>O'Donnell et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00425">
+<document-id>
+<country>US</country>
+<doc-number>D840303</doc-number>
+<kind>S</kind>
+<name>Park Cheng</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00426">
+<document-id>
+<country>US</country>
+<doc-number>D840306</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00427">
+<document-id>
+<country>US</country>
+<doc-number>D840565</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00428">
+<document-id>
+<country>US</country>
+<doc-number>D840570</doc-number>
+<kind>S</kind>
+<name>Kim et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00429">
+<document-id>
+<country>US</country>
+<doc-number>D840571</doc-number>
+<kind>S</kind>
+<name>Zipfel et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00430">
+<document-id>
+<country>US</country>
+<doc-number>D840572</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00431">
+<document-id>
+<country>US</country>
+<doc-number>D840885</doc-number>
+<kind>S</kind>
+<name>Park Cheng</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00432">
+<document-id>
+<country>US</country>
+<doc-number>D841527</doc-number>
+<kind>S</kind>
+<name>Kozub et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00433">
+<document-id>
+<country>US</country>
+<doc-number>D841532</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00434">
+<document-id>
+<country>US</country>
+<doc-number>D841540</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00435">
+<document-id>
+<country>US</country>
+<doc-number>D841541</doc-number>
+<kind>S</kind>
+<name>Krieg</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00436">
+<document-id>
+<country>US</country>
+<doc-number>D841542</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00437">
+<document-id>
+<country>US</country>
+<doc-number>D841547</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12196</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00438">
+<document-id>
+<country>US</country>
+<doc-number>D841843</doc-number>
+<kind>S</kind>
+<name>Park</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00439">
+<document-id>
+<country>US</country>
+<doc-number>D841844</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00440">
+<document-id>
+<country>US</country>
+<doc-number>D841845</doc-number>
+<kind>S</kind>
+<name>Park</name>
+<date>20190200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00441">
+<document-id>
+<country>US</country>
+<doc-number>D842178</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00442">
+<document-id>
+<country>US</country>
+<doc-number>D842306</doc-number>
+<kind>S</kind>
+<name>Lindo et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00443">
+<document-id>
+<country>US</country>
+<doc-number>D843023</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00444">
+<document-id>
+<country>US</country>
+<doc-number>D843024</doc-number>
+<kind>S</kind>
+<name>Hochmuth</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00445">
+<document-id>
+<country>US</country>
+<doc-number>D843025</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00446">
+<document-id>
+<country>US</country>
+<doc-number>D843275</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00447">
+<document-id>
+<country>US</country>
+<doc-number>D843280</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00448">
+<document-id>
+<country>US</country>
+<doc-number>D843614</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00449">
+<document-id>
+<country>US</country>
+<doc-number>D843616</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00450">
+<document-id>
+<country>US</country>
+<doc-number>D843617</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00451">
+<document-id>
+<country>US</country>
+<doc-number>D843891</doc-number>
+<kind>S</kind>
+<name>Thompson et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00452">
+<document-id>
+<country>US</country>
+<doc-number>D843904</doc-number>
+<kind>S</kind>
+<name>Kim</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00453">
+<document-id>
+<country>US</country>
+<doc-number>D844184</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00454">
+<document-id>
+<country>US</country>
+<doc-number>D844185</doc-number>
+<kind>S</kind>
+<name>Hochmuth</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00455">
+<document-id>
+<country>US</country>
+<doc-number>D844186</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00456">
+<document-id>
+<country>US</country>
+<doc-number>D845184</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00457">
+<document-id>
+<country>US</country>
+<doc-number>D845186</doc-number>
+<kind>S</kind>
+<name>Koo</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00458">
+<document-id>
+<country>US</country>
+<doc-number>D845187</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00459">
+<document-id>
+<country>US</country>
+<doc-number>D845188</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00460">
+<document-id>
+<country>US</country>
+<doc-number>D845189</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00461">
+<document-id>
+<country>US</country>
+<doc-number>D845190</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00462">
+<document-id>
+<country>US</country>
+<doc-number>D845196</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00463">
+<document-id>
+<country>US</country>
+<doc-number>D845518</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00464">
+<document-id>
+<country>US</country>
+<doc-number>D845519</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00465">
+<document-id>
+<country>US</country>
+<doc-number>D846448</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00466">
+<document-id>
+<country>US</country>
+<doc-number>D846457</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00467">
+<document-id>
+<country>US</country>
+<doc-number>D846458</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00468">
+<document-id>
+<country>US</country>
+<doc-number>D846769</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00469">
+<document-id>
+<country>US</country>
+<doc-number>D846770</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00470">
+<document-id>
+<country>US</country>
+<doc-number>D846771</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00471">
+<document-id>
+<country>US</country>
+<doc-number>D846772</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00472">
+<document-id>
+<country>US</country>
+<doc-number>D847027</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00473">
+<document-id>
+<country>US</country>
+<doc-number>D847028</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00474">
+<document-id>
+<country>US</country>
+<doc-number>D847038</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00475">
+<document-id>
+<country>US</country>
+<doc-number>D847041</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00476">
+<document-id>
+<country>US</country>
+<doc-number>D847042</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00477">
+<document-id>
+<country>US</country>
+<doc-number>D847043</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00478">
+<document-id>
+<country>US</country>
+<doc-number>D847044</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00479">
+<document-id>
+<country>US</country>
+<doc-number>D847045</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00480">
+<document-id>
+<country>US</country>
+<doc-number>D847046</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00481">
+<document-id>
+<country>US</country>
+<doc-number>D847047</doc-number>
+<kind>S</kind>
+<name>Krieg et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00482">
+<document-id>
+<country>US</country>
+<doc-number>D847390</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00483">
+<document-id>
+<country>US</country>
+<doc-number>D847391</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00484">
+<document-id>
+<country>US</country>
+<doc-number>D847392</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00485">
+<document-id>
+<country>US</country>
+<doc-number>D847699</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00486">
+<document-id>
+<country>US</country>
+<doc-number>D847700</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00487">
+<document-id>
+<country>US</country>
+<doc-number>D847701</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00488">
+<document-id>
+<country>US</country>
+<doc-number>D847702</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00489">
+<document-id>
+<country>US</country>
+<doc-number>D847703</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00490">
+<document-id>
+<country>US</country>
+<doc-number>D847704</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00491">
+<document-id>
+<country>US</country>
+<doc-number>D847705</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00492">
+<document-id>
+<country>US</country>
+<doc-number>D847707</doc-number>
+<kind>S</kind>
+<name>Park Cheng et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00493">
+<document-id>
+<country>US</country>
+<doc-number>D847714</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00494">
+<document-id>
+<country>US</country>
+<doc-number>D848315</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00495">
+<document-id>
+<country>US</country>
+<doc-number>D848318</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00496">
+<document-id>
+<country>US</country>
+<doc-number>D848320</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00497">
+<document-id>
+<country>US</country>
+<doc-number>D848322</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00498">
+<document-id>
+<country>US</country>
+<doc-number>D848323</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00499">
+<document-id>
+<country>US</country>
+<doc-number>D848324</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00500">
+<document-id>
+<country>US</country>
+<doc-number>D848325</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00501">
+<document-id>
+<country>US</country>
+<doc-number>D848647</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00502">
+<document-id>
+<country>US</country>
+<doc-number>D848908</doc-number>
+<kind>S</kind>
+<name>Krieg</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00503">
+<document-id>
+<country>US</country>
+<doc-number>D848909</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00504">
+<document-id>
+<country>US</country>
+<doc-number>D848911</doc-number>
+<kind>S</kind>
+<name>De Leon</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00505">
+<document-id>
+<country>US</country>
+<doc-number>D848915</doc-number>
+<kind>S</kind>
+<name>Izard</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00506">
+<document-id>
+<country>US</country>
+<doc-number>D849627</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00507">
+<document-id>
+<country>US</country>
+<doc-number>D849629</doc-number>
+<kind>S</kind>
+<name>De Leon</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00508">
+<document-id>
+<country>US</country>
+<doc-number>D849630</doc-number>
+<kind>S</kind>
+<name>De Leon</name>
+<date>20190500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00509">
+<document-id>
+<country>US</country>
+<doc-number>D850341</doc-number>
+<kind>S</kind>
+<name>Riggs et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00510">
+<document-id>
+<country>US</country>
+<doc-number>D850989</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00511">
+<document-id>
+<country>US</country>
+<doc-number>D851002</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00512">
+<document-id>
+<country>US</country>
+<doc-number>D851541</doc-number>
+<kind>S</kind>
+<name>Pinazzo</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00513">
+<document-id>
+<country>US</country>
+<doc-number>D851542</doc-number>
+<kind>S</kind>
+<name>Mack</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00514">
+<document-id>
+<country>US</country>
+<doc-number>D851547</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00515">
+<document-id>
+<country>US</country>
+<doc-number>D851548</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00516">
+<document-id>
+<country>US</country>
+<doc-number>D851549</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00517">
+<document-id>
+<country>US</country>
+<doc-number>D851550</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00518">
+<document-id>
+<country>US</country>
+<doc-number>D851551</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00519">
+<document-id>
+<country>US</country>
+<doc-number>D851552</doc-number>
+<kind>S</kind>
+<name>Mack et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00520">
+<document-id>
+<country>US</country>
+<doc-number>D851555</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00521">
+<document-id>
+<country>US</country>
+<doc-number>D851556</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00522">
+<document-id>
+<country>US</country>
+<doc-number>D851557</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00523">
+<document-id>
+<country>US</country>
+<doc-number>D851558</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00524">
+<document-id>
+<country>US</country>
+<doc-number>D851559</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00525">
+<document-id>
+<country>US</country>
+<doc-number>D851560</doc-number>
+<kind>S</kind>
+<name>Yong et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00526">
+<document-id>
+<country>US</country>
+<doc-number>D851561</doc-number>
+<kind>S</kind>
+<name>Yong et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00527">
+<document-id>
+<country>US</country>
+<doc-number>D852093</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00528">
+<document-id>
+<country>US</country>
+<doc-number>D852094</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00529">
+<document-id>
+<country>US</country>
+<doc-number>D852096</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00530">
+<document-id>
+<country>US</country>
+<doc-number>D852099</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00531">
+<document-id>
+<country>US</country>
+<doc-number>D852389</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00532">
+<document-id>
+<country>US</country>
+<doc-number>D852393</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190600</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00533">
+<document-id>
+<country>US</country>
+<doc-number>D853903</doc-number>
+<kind>S</kind>
+<name>Loeb</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00534">
+<document-id>
+<country>US</country>
+<doc-number>D853904</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00535">
+<document-id>
+<country>US</country>
+<doc-number>D853924</doc-number>
+<kind>S</kind>
+<name>Riggs et al.</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00536">
+<document-id>
+<country>US</country>
+<doc-number>D854462</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00537">
+<document-id>
+<country>US</country>
+<doc-number>D854471</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00538">
+<document-id>
+<country>US</country>
+<doc-number>D854977</doc-number>
+<kind>S</kind>
+<name>Parkinson et al.</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00539">
+<document-id>
+<country>US</country>
+<doc-number>D854979</doc-number>
+<kind>S</kind>
+<name>Krieg et al.</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00540">
+<document-id>
+<country>US</country>
+<doc-number>D854988</doc-number>
+<kind>S</kind>
+<name>Krieg</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00541">
+<document-id>
+<country>US</country>
+<doc-number>D854991</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190700</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00542">
+<document-id>
+<country>US</country>
+<doc-number>D855503</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00543">
+<document-id>
+<country>US</country>
+<doc-number>D855504</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00544">
+<document-id>
+<country>US</country>
+<doc-number>D855505</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00545">
+<document-id>
+<country>US</country>
+<doc-number>D855507</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00546">
+<document-id>
+<country>US</country>
+<doc-number>D855508</doc-number>
+<kind>S</kind>
+<name>Wilkins et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00547">
+<document-id>
+<country>US</country>
+<doc-number>D855509</doc-number>
+<kind>S</kind>
+<name>Wilkins</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00548">
+<document-id>
+<country>US</country>
+<doc-number>D855515</doc-number>
+<kind>S</kind>
+<name>Riggs et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00549">
+<document-id>
+<country>US</country>
+<doc-number>D855518</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00550">
+<document-id>
+<country>US</country>
+<doc-number>D855520</doc-number>
+<kind>S</kind>
+<name>Parkinson</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00551">
+<document-id>
+<country>US</country>
+<doc-number>D855523</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00552">
+<document-id>
+<country>US</country>
+<doc-number>D855524</doc-number>
+<kind>S</kind>
+<name>Lee</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00553">
+<document-id>
+<country>US</country>
+<doc-number>D856201</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00554">
+<document-id>
+<country>US</country>
+<doc-number>D856204</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00555">
+<document-id>
+<country>US</country>
+<doc-number>D856206</doc-number>
+<kind>S</kind>
+<name>De Leon</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00556">
+<document-id>
+<country>US</country>
+<doc-number>D856242</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00557">
+<document-id>
+<country>US</country>
+<doc-number>D856864</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00558">
+<document-id>
+<country>US</country>
+<doc-number>D856874</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00559">
+<document-id>
+<country>US</country>
+<doc-number>D856875</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00560">
+<document-id>
+<country>US</country>
+<doc-number>D856876</doc-number>
+<kind>S</kind>
+<name>Kapitonov</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00561">
+<document-id>
+<country>US</country>
+<doc-number>D857260</doc-number>
+<kind>S</kind>
+<name>Kil et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00562">
+<document-id>
+<country>US</country>
+<doc-number>D857567</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00563">
+<document-id>
+<country>US</country>
+<doc-number>D857936</doc-number>
+<kind>S</kind>
+<name>Kil et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00564">
+<document-id>
+<country>US</country>
+<doc-number>D857938</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00565">
+<document-id>
+<country>US</country>
+<doc-number>D857939</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00566">
+<document-id>
+<country>US</country>
+<doc-number>D857940</doc-number>
+<kind>S</kind>
+<name>Park</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00567">
+<document-id>
+<country>US</country>
+<doc-number>D857941</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00568">
+<document-id>
+<country>US</country>
+<doc-number>D857942</doc-number>
+<kind>S</kind>
+<name>Perkins</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00569">
+<document-id>
+<country>US</country>
+<doc-number>D857943</doc-number>
+<kind>S</kind>
+<name>Hochmuth</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00570">
+<document-id>
+<country>US</country>
+<doc-number>D857944</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00571">
+<document-id>
+<country>US</country>
+<doc-number>D857945</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00572">
+<document-id>
+<country>US</country>
+<doc-number>D857946</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00573">
+<document-id>
+<country>US</country>
+<doc-number>D857947</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00574">
+<document-id>
+<country>US</country>
+<doc-number>D857948</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00575">
+<document-id>
+<country>US</country>
+<doc-number>D857949</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00576">
+<document-id>
+<country>US</country>
+<doc-number>D857950</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00577">
+<document-id>
+<country>US</country>
+<doc-number>D857951</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00578">
+<document-id>
+<country>US</country>
+<doc-number>D857952</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190800</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00579">
+<document-id>
+<country>US</country>
+<doc-number>D858373</doc-number>
+<kind>S</kind>
+<name>Blanski et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00580">
+<document-id>
+<country>US</country>
+<doc-number>D858377</doc-number>
+<kind>S</kind>
+<name>Riggs et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00581">
+<document-id>
+<country>US</country>
+<doc-number>D858813</doc-number>
+<kind>S</kind>
+<name>Datta</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00582">
+<document-id>
+<country>US</country>
+<doc-number>D858814</doc-number>
+<kind>S</kind>
+<name>Burns</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00583">
+<document-id>
+<country>US</country>
+<doc-number>D858817</doc-number>
+<kind>S</kind>
+<name>Henriques</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00584">
+<document-id>
+<country>US</country>
+<doc-number>D858818</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00585">
+<document-id>
+<country>US</country>
+<doc-number>D858819</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00586">
+<document-id>
+<country>US</country>
+<doc-number>D858820</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00587">
+<document-id>
+<country>US</country>
+<doc-number>D858821</doc-number>
+<kind>S</kind>
+<name>Park</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00588">
+<document-id>
+<country>US</country>
+<doc-number>D858822</doc-number>
+<kind>S</kind>
+<name>Whitla et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00589">
+<document-id>
+<country>US</country>
+<doc-number>D858823</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00590">
+<document-id>
+<country>US</country>
+<doc-number>D858824</doc-number>
+<kind>S</kind>
+<name>Pinazzo et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00591">
+<document-id>
+<country>US</country>
+<doc-number>D859229</doc-number>
+<kind>S</kind>
+<name>Karras et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00592">
+<document-id>
+<country>US</country>
+<doc-number>D859230</doc-number>
+<kind>S</kind>
+<name>Parkinson et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00593">
+<document-id>
+<country>US</country>
+<doc-number>D859231</doc-number>
+<kind>S</kind>
+<name>Wilkins et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00594">
+<document-id>
+<country>US</country>
+<doc-number>D859232</doc-number>
+<kind>S</kind>
+<name>Izard et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00595">
+<document-id>
+<country>US</country>
+<doc-number>D859233</doc-number>
+<kind>S</kind>
+<name>Izard et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00596">
+<document-id>
+<country>US</country>
+<doc-number>D859237</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00597">
+<document-id>
+<country>US</country>
+<doc-number>D859238</doc-number>
+<kind>S</kind>
+<name>Smith et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00598">
+<document-id>
+<country>US</country>
+<doc-number>D859239</doc-number>
+<kind>S</kind>
+<name>Sullivan et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00599">
+<document-id>
+<country>US</country>
+<doc-number>D859246</doc-number>
+<kind>S</kind>
+<name>Thurber et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00600">
+<document-id>
+<country>US</country>
+<doc-number>D859248</doc-number>
+<kind>S</kind>
+<name>Wilkins et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00601">
+<document-id>
+<country>US</country>
+<doc-number>D859252</doc-number>
+<kind>S</kind>
+<name>Krieg</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00602">
+<document-id>
+<country>US</country>
+<doc-number>D859253</doc-number>
+<kind>S</kind>
+<name>Izard</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00603">
+<document-id>
+<country>US</country>
+<doc-number>D859254</doc-number>
+<kind>S</kind>
+<name>Izard</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00604">
+<document-id>
+<country>US</country>
+<doc-number>D859707</doc-number>
+<kind>S</kind>
+<name>McMahan et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00605">
+<document-id>
+<country>US</country>
+<doc-number>D859708</doc-number>
+<kind>S</kind>
+<name>Kozub</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00606">
+<document-id>
+<country>US</country>
+<doc-number>D859709</doc-number>
+<kind>S</kind>
+<name>Zipfel</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00607">
+<document-id>
+<country>US</country>
+<doc-number>D860075</doc-number>
+<kind>S</kind>
+<name>Riggs et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00608">
+<document-id>
+<country>US</country>
+<doc-number>D860076</doc-number>
+<kind>S</kind>
+<name>Bartels et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00609">
+<document-id>
+<country>US</country>
+<doc-number>D860077</doc-number>
+<kind>S</kind>
+<name>Riggs et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00610">
+<document-id>
+<country>US</country>
+<doc-number>D860078</doc-number>
+<kind>S</kind>
+<name>O'Donnell et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00611">
+<document-id>
+<country>US</country>
+<doc-number>D860079</doc-number>
+<kind>S</kind>
+<name>Sullivan et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00612">
+<document-id>
+<country>US</country>
+<doc-number>D860085</doc-number>
+<kind>S</kind>
+<name>Koo et al.</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00613">
+<document-id>
+<country>US</country>
+<doc-number>D860489</doc-number>
+<kind>S</kind>
+<name>Henriques</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00614">
+<document-id>
+<country>US</country>
+<doc-number>D860490</doc-number>
+<kind>S</kind>
+<name>Henriques</name>
+<date>20190900</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00615">
+<document-id>
+<country>US</country>
+<doc-number>D870620</doc-number>
+<kind>S</kind>
+<name>Hallgren</name>
+<date>20191200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12184</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00616">
+<document-id>
+<country>US</country>
+<doc-number>D890646</doc-number>
+<kind>S</kind>
+<name>Owens</name>
+<date>20200700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00617">
+<document-id>
+<country>US</country>
+<doc-number>D902800</doc-number>
+<kind>S</kind>
+<name>Gay</name>
+<date>20201100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00618">
+<document-id>
+<country>US</country>
+<doc-number>D904943</doc-number>
+<kind>S</kind>
+<name>Wraith</name>
+<date>20201200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12169</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00619">
+<document-id>
+<country>US</country>
+<doc-number>D920202</doc-number>
+<kind>S</kind>
+<name>Feng</name>
+<date>20210500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12196</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00620">
+<document-id>
+<country>US</country>
+<doc-number>D922284</doc-number>
+<kind>S</kind>
+<name>Feng</name>
+<date>20210600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D12196</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D12  1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 85</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 86</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 88</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 89</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 90</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 91</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 92</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12 93</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12101</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12102</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12106</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12144</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12163</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12164</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12167</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12169</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12171</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12173</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12181</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12184</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12185</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12190</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12192</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12196</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12216</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12400</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21533</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21548</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21552</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21561</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D15 28</main-classification>
+</classification-national>
+<classification-cpc-text>B60R 19/00</classification-cpc-text>
+<classification-cpc-text>B60R 19/02</classification-cpc-text>
+<classification-cpc-text>B60R 19/04</classification-cpc-text>
+<classification-cpc-text>B60R 19/18</classification-cpc-text>
+<classification-cpc-text>B60R 19/24</classification-cpc-text>
+<classification-cpc-text>B60R 19/52</classification-cpc-text>
+<classification-cpc-text>B60R 19/56</classification-cpc-text>
+<classification-cpc-text>B60R 2019/007</classification-cpc-text>
+<classification-cpc-text>B62D 25/00</classification-cpc-text>
+<classification-cpc-text>B62D 25/08</classification-cpc-text>
+<classification-cpc-text>B62D 35/00</classification-cpc-text>
+<classification-cpc-text>B60K 11/08</classification-cpc-text>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>GM GLOBAL TECHNOLOGY OPERATIONS LLC</orgname>
+<address>
+<city>Detroit</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Park</last-name>
+<first-name>Jonghyuk</first-name>
+<address>
+<city>Troy</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="002" designation="us-only">
+<addressbook>
+<last-name>Okamoto</last-name>
+<first-name>Eduardo</first-name>
+<address>
+<city>Royal Oak</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>GM Global Technology Operations LLC</orgname>
+<role>02</role>
+<address>
+<city>Detroit</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>McLean</last-name>
+<first-name>Christian P.</first-name>
+<department>2923</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Mager</last-name>
+<first-name>Adam C</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="80.18mm" wi="189.65mm" file="USD0930529-20210914-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="191.69mm" wi="99.31mm" orientation="landscape" file="USD0930529-20210914-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="105.66mm" wi="126.15mm" file="USD0930529-20210914-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="158.83mm" wi="103.72mm" orientation="landscape" file="USD0930529-20210914-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="157.82mm" wi="104.56mm" orientation="landscape" file="USD0930529-20210914-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="103.89mm" wi="125.90mm" file="USD0930529-20210914-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="159.26mm" wi="125.81mm" orientation="landscape" file="USD0930529-20210914-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="159.94mm" wi="126.92mm" orientation="landscape" file="USD0930529-20210914-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front and left perspective view of a vehicle front fascia showing our new design; the mirror image of the vehicle front fascia is claimed, but not shown;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a front elevation of the vehicle front fascia of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a left elevation view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a right elevation view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a rear elevation view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a top view thereof; and,</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a bottom view thereof.</p>
+<p id="p-0008" num="0008">The broken lines in the drawings depict portions of the vehicle front fascia that form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a vehicle front fascia, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
